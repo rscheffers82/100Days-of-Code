@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<!-- ### Day 3: January 3rd, 2017 ()
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: []() -->
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 2nd, 2017 (Redux middleware)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Managed to code a couple of hours and explore redux middleware
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Wrapping a function into a function into a function is mind boggling but at least I understand how to tap into middleware and add it to React-redux.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Redux middleware](https://github.com/rscheffers82/redux-middleware-exploration)
 
 
-### Day 1: June 27, Monday
+### Day 1: January 1st, 2017 - Explore higher order components in React
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Created a simple component in React and added functionality to it by creating a higher order component and wrapping this around it.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** This upcoming week I want to get more familiar with React and Redux and will pick up a few projects along the way to put into practice what I'm studying.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Higher order components in React](https://github.com/rscheffers82/higher-order-components-in-react)
