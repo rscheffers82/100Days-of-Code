@@ -11,9 +11,26 @@ _____________________________________________________________________
 **Thoughts:**
 
 
-**Link(s) to work:** []()
+**Link(s) to work:** [Influence on Codepen](http://codepen.io/roycode/pen/RKNzao)
 -->
+
+
+
 _____________________________________________________________________
+
+
+### Day 5: January 5th, 2017 (Spontaneous bug fix day)
+
+**Today's Progress:**
+Felt the need to bugfix an older app
+
+**Thoughts:**
+I've build this little app on codepen a while ago to determine which numerological day the current day adds up to. I had some bugs for certain days, so fixed those bugs and ran some tests. Thinking of adding react to the app and several views, today, monthly overview, search.
+
+**Link(s) to work:** [Influence: a  CodePen project](http://codepen.io/roycode/pen/RKNzao)
+
+_____________________________________________________________________
+
 
 ### Day 4: January 4th, 2017 (Worked on boilerplate API auth server)
 
@@ -23,9 +40,10 @@ Completed the API auth server.
 **Thoughts:**
 Wrestled quite a bit with passport and the setup of strategies. Luckily, I had enough time on my hands to sit down with the code and make it work. <i>#feelingsatisfied</i>
 
-**Link(s) to work:** <br> - [API authentication server](https://github.com/rscheffers82/server-authentication)
+**Link(s) to work:** [API authentication server](https://github.com/rscheffers82/server-authentication)
 
 _____________________________________________________________________
+
 
 ### Day 3: January 3rd, 2017 (Express and NodeJS authentication)
 
@@ -35,9 +53,10 @@ Created new repo and setup a fair chunck of the server and user authentication u
 **Thoughts:**
 Definitely enjoyed working with the backend and I love those moments when things start to work. Luckily I had a few hours of undisturbed coding time which helped to get my mind around some of the new concepts.
 
-**Link(s) to work:** <br> - [API authentication server](https://github.com/rscheffers82/server-authentication)
+**Link(s) to work:** [API authentication server](https://github.com/rscheffers82/server-authentication)
 
 _____________________________________________________________________
+
 
 ### Day 2: January 2nd, 2017 (Redux middleware)
 
@@ -50,6 +69,7 @@ Wrapping a function into a function into a function is mind boggling but at leas
 **Link(s) to work:** [Redux middleware](https://github.com/rscheffers82/redux-middleware-exploration)
 
 _____________________________________________________________________
+
 
 ### Day 1: January 1st, 2017 (Explore higher order components in React)
 
