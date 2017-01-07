@@ -3,7 +3,7 @@
 
 _____________________________________________________________________
 
-### Day 5: January 5th, 2017 ()
+### Day 7: January 7th, 2017 ()
 
 **Today's Progress:**
 
@@ -15,6 +15,18 @@ _____________________________________________________________________
 -->
 
 
+
+_____________________________________________________________________
+
+### Day 6: January 6th, 2017 (Update portfolio website)
+
+**Today's Progress:**
+Made some improvements to my portfolio website
+
+**Thoughts:**
+It was nice to fiddle around again with some CSS and make things look nice on the screen. The last few days I've worked more with code and backend stuff, so this was a nice change. I also worked on updating the description of some projects so they highlight the things I learned and which technologies I used.
+
+**Link(s) to work:** [royscheffers.com](http://royscheffers.com)
 
 _____________________________________________________________________
 
