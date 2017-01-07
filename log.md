@@ -15,8 +15,20 @@ _____________________________________________________________________
 -->
 
 
+_____________________________________________________________________
+
+### Day 7: January 7th, 2017 (Webpack exploration)
+
+**Today's Progress:**
+Managed to finish the first part of a webpack tutorial.
+
+**Thoughts:**
+Having used webpack for several React projects. I did not fully understand how to create a `webpack.config.js` file. Some code within it made sense, while other parts were like Chinese to me. Creating such a file from the group up and reading up on those parts helped to wrap my head around the various options in there. For future projects, I now know which parts to include and which to leave out.
+
+**Link(s) to work:** [GitHub repo](https://github.com/rscheffers82/webpack-exploration)
 
 _____________________________________________________________________
+
 
 ### Day 6: January 6th, 2017 (Update portfolio website)
 
