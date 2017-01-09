@@ -1,9 +1,7 @@
 # 100 Days Of Code - Log
 <!--
 
-_____________________________________________________________________
-
-### Day 7: January 7th, 2017 ()
+### Day 9: January 9th, 2017 ()
 
 **Today's Progress:**
 
@@ -11,8 +9,18 @@ _____________________________________________________________________
 **Thoughts:**
 
 
-**Link(s) to work:** [Influence on Codepen](http://codepen.io/roycode/pen/RKNzao)
+**Link(s) to work:** [Influence on Codepen](https://github.com/rscheffers82/webpack-exploration2)
 -->
+
+### Day 8: January 8th, 2017 (More webpack exploration)
+
+**Today's Progress:**
+Build another webpack project from scratch and used an existing react project to apply several optimization techniques on. Massive build process improvements! :-)
+
+**Thoughts:**
+Had quite some time on Sunday to explore webpack, performance, and process optimization again. It was really mind blowing. I definitely learned more about webpack and how modules and plugins work together. But more so the process I use to build projects has massively improved. This will surely shave off some valuable time during next development projects. More feedback on this you'll find in the [README](https://github.com/rscheffers82/webpack-exploration2/blob/master/README.md) file within the GitHub repo.
+
+**Link(s) to work:** [More webpack exploration and build process optimization](https://github.com/rscheffers82/webpack-exploration2)
 
 
 _____________________________________________________________________
