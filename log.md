@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 <!--
 
-### Day 9: January 9th, 2017 ()
+### Day 10: January 10th, 2017 ()
 
 **Today's Progress:**
 
@@ -10,7 +10,22 @@
 
 
 **Link(s) to work:** [Influence on Codepen](https://github.com/rscheffers82/webpack-exploration2)
+
+
+_____________________________________________________________________
 -->
+
+
+### Day 9: January 9th, 2017 (Deployment to Heroku and AWS)
+
+**Today's Progress:** Made the webpack project production ready and deployed it to Heroku and AWS.
+
+**Thoughts:** Added a small node / express server to the webpack project which allows local development and production deployment to Heroku and AWS. Fun stuff and I'm looking forward to deploy more projects.
+
+**Link(s) to work:** [Influence on Codepen](https://github.com/rscheffers82/webpack-exploration2)
+
+_____________________________________________________________________
+
 
 ### Day 8: January 8th, 2017 (More webpack exploration)
 
@@ -22,8 +37,8 @@ Had quite some time on Sunday to explore webpack, performance, and process optim
 
 **Link(s) to work:** [More webpack exploration and build process optimization](https://github.com/rscheffers82/webpack-exploration2)
 
-
 _____________________________________________________________________
+
 
 ### Day 7: January 7th, 2017 (Webpack exploration)
 
