@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 <!--
 
-### Day 10: January 10th, 2017 ()
+### Day 11: January 11th, 2017 ()
 
 **Today's Progress:**
 
@@ -14,6 +14,16 @@
 
 _____________________________________________________________________
 -->
+
+### Day 10: January 10th, 2017 (Deep dive into JavaScript)
+
+**Today's Progress:** Coded along with some examples in the book You Don't Know JavaScript, chapter Scope & Closures.
+
+**Thoughts:** Glad I went back to basics. It's nice to really try to understand JavaScript well. It's one thing to put code down that works, and another to put code down that works and you understand why you choose this solution. I feel I'm moving towards the latter :) and I'm looking forward to work my way through the series.
+
+**Link(s) to work:** [Scope and Closures - You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+
+_____________________________________________________________________
 
 
 ### Day 9: January 9th, 2017 (Deployment to Heroku and AWS)
