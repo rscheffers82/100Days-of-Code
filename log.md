@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 <!--
 
-### Day 11: January 11th, 2017 ()
+### Day 13: January 13th, 2017 ()
 
 **Today's Progress:**
 
@@ -16,11 +16,25 @@ _____________________________________________________________________
 -->
 
 
+### Day 12: January 12th, 2017 (Further build upon front-end login app)
+
+**Today's Progress:** Today I managed to setup the basic structure of the site. The React Router is now in place as well as some redux components that are needed to get the job done (e.g. redux-thunk). This will allow for a more complex action generator that dispatches different actions based on the outcome. (redux thunk provides access to the dispatch function) This in specifically useful for the login action generator that needs to handle (login failed / is successful, and the user needs to be redirected to the feature part of the app)
+So far the login part is working after resolving a CORS issue on the server side. Currently a token is returned when a user logs in with an already existing email and password. I'll work on error handling and the re-route on success another time.
+
+**Thoughts:** Although challenging, I like hooking things up as done in this project. It's awesome to see an app connect with the back and based on the outcome render output. Although this is still a basic setup, I use it to explore the concept that I'll likely will use for a later project. I still have 88 more days to go, so no sweat :)
+
+**Link(s) to work:**<br>
+[Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)<br>
+[API auth server (fix CORS)](https://github.com/rscheffers82/API-auth-server)
+
+_____________________________________________________________________
+
+
 ### Day 11: January 11th, 2017 (Starting a new React and Redux project to explore login)
 
 **Today's Progress:** Initial start of the project, more planning than coding and uploaded a boilerplate repo to github.
 
-**Thoughts:** Today I spend most of the time to hash out the specifics of this project before starting to code. This little app will be build on React and Redux and it will use the prior API project I build to login. This app will have 4 different routes. "/", "/login", "/logout", "/featured". The "featured" route should only be accessible when a use has signed up and logged in. Looking forward to roll this out over the next week or so. :)
+**Thoughts:** Today I spend most of the time to hash out the specifics of this project before starting to code. This little app will be build on React and Redux and it will use the prior API project I build to login. This app will have 4 different routes. "/", "/login", "/logout", "/feature". The "feature" route should only be accessible when a use has signed up and logged in. Looking forward to roll this out over the next week or so. :)
 
 **Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
 
