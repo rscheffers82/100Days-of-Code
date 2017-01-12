@@ -9,11 +9,23 @@
 **Thoughts:**
 
 
-**Link(s) to work:** [Influence on Codepen](https://github.com/rscheffers82/webpack-exploration2)
+**Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
 
 
 _____________________________________________________________________
 -->
+
+
+### Day 11: January 11th, 2017 (Starting a new React and Redux project to explore login)
+
+**Today's Progress:** Initial start of the project, more planning than coding and uploaded a boilerplate repo to github.
+
+**Thoughts:** Today I spend most of the time to hash out the specifics of this project before starting to code. This little app will be build on React and Redux and it will use the prior API project I build to login. This app will have 4 different routes. "/", "/login", "/logout", "/featured". The "featured" route should only be accessible when a use has signed up and logged in. Looking forward to roll this out over the next week or so. :)
+
+**Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
+
+_____________________________________________________________________
+
 
 ### Day 10: January 10th, 2017 (Deep dive into JavaScript)
 
