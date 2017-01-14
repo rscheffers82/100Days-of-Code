@@ -1,7 +1,8 @@
 # 100 Days Of Code - Log
+
 <!--
 
-### Day 13: January 13th, 2017 ()
+### Day 14: January 14th, 2017 ()
 
 **Today's Progress:**
 
@@ -14,6 +15,17 @@
 
 _____________________________________________________________________
 -->
+
+
+### Day 13: January 13th, 2017 (Further build out login app)
+
+**Today's Progress:** I spent roughtly 3 hours on building the login and route logic for the header component of the app.
+
+**Thoughts:** Used react-router from react and the connect component from react-redux to create a basic but functional header component. I have used both before in prior projects, so today was more of a day in where I repeated some of the concepts I learned about. I had to refer back to prior projects to check out how I did some parts again, so it was a good repeat to hopefully remember this for next time. I'm finding myself putting down a fair amount of code before needing to go back and check code. Using react and redux slowely but surely starts to feel familiar :)
+
+**Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
+
+_____________________________________________________________________
 
 
 ### Day 12: January 12th, 2017 (Further build upon front-end login app)
