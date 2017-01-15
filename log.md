@@ -1,8 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-
-### Day 14: January 14th, 2017 ()
+### Day 15: January 15th, 2017 ()
 
 **Today's Progress:**
 
@@ -12,9 +11,17 @@
 
 **Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
 
-
 _____________________________________________________________________
 -->
+
+### Day 14: January 14th, 2017 (Build upon the onlogin app - signup component)
+
+**Today's Progress:** Add login component and front-end password validation
+
+**Thoughts:** Short but sweet session for about an hour and a half today. I managed to put some code down and create the login component and use redux-form again to hook up the html elements. Front end form validation for the password is done, tomorrow email validation and hopefully tie in with the back-end for email validation and error handling.
+
+**Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
+_____________________________________________________________________
 
 
 ### Day 13: January 13th, 2017 (Further build out login app)
