@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 15: January 15th, 2017 ()
+### Day 16: January 16th, 2017 ()
 
 **Today's Progress:**
 
@@ -14,7 +14,18 @@
 _____________________________________________________________________
 -->
 
-### Day 14: January 14th, 2017 (Build upon the onlogin app - signup component)
+### Day 15: January 15th, 2017 (Login App - connect front-end to back-end)
+
+**Today's Progress:** Added further form validation to the signup component and on a successful form submit, data is send to the back-end server. I've also added successful and failure logic which routes the user to the feature route on success and display the failure reason when signup fails.
+
+**Thoughts:** Studied the axios library more to better understand and how data is send back from an API request when successfull or when it failed.
+
+**Link(s) to work:** [Front-End login app](https://github.com/rscheffers82/front-end-login-app)
+
+_____________________________________________________________________
+
+
+### Day 14: January 14th, 2017 (Build upon the login app - signup component)
 
 **Today's Progress:** Add login component and front-end password validation
 
