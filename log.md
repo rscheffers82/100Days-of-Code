@@ -14,6 +14,18 @@
 _____________________________________________________________________
 -->
 
+### Day 16: January 16th, 2017 (Login App pull secure data with token in our app)
+
+**Today's Progress:**
+Managed to further build out the secure part of the application. Used the axios library to make a get request and include additional header information for authentication. The server comes back with a failure or successful response. In case of the latter the user will be provided with with the secure data.
+
+**Thoughts:**
+Nothing spectacularly new learned, just implementing the techniques that I've used before which helps to become more familair with building apps on react. A few more days to go and the app will be finished.
+
+**Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
+
+_____________________________________________________________________
+
 ### Day 15: January 15th, 2017 (Login App - connect front-end to back-end)
 
 **Today's Progress:** Added further form validation to the signup component and on a successful form submit, data is send to the back-end server. I've also added successful and failure logic which routes the user to the feature route on success and display the failure reason when signup fails.
