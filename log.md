@@ -1,5 +1,4 @@
 # 100 Days Of Code - Log
-
 <!--
 ### Day 16: January 16th, 2017 ()
 
@@ -13,6 +12,35 @@
 
 _____________________________________________________________________
 -->
+
+### Day 17: January 17th, 2017 (Final finishing touch to the front-end login app)
+
+**Today's Progress:**<br>
+Managed to finish the basic functionality and display of my front-end login app. Here are the accomplishments:
+- user can register
+  failure handling in case incorrect input is provided or if the email address is already in use
+  
+- user can login
+  Login details are validated on the front-end first
+  - Once validated the back-end server (express, node and mongodb) is contacted to check login details there.<br>
+  - If the user is registered and login details are correct, a token is returned can the '/feature' route is available to them with protected info.
+  - Else an error message is returned and displayed on the login page.
+
+
+- user can visit protected area when logged in
+  - When not, the route will not be available for the user
+
+**Thoughts:**<br>
+Gave it an initial try to deploy the app to heroku but failed so far.
+1. There are some issues with package.json
+2. Have to figure out how to setup mongodb in the cloud, if a free service is available.
+
+
+**Link(s) to work:** <br>
+[Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)<br>
+[API auth server](https://github.com/rscheffers82/API-auth-server)
+_____________________________________________________________________
+
 
 ### Day 16: January 16th, 2017 (Login App pull secure data with token in our app)
 
