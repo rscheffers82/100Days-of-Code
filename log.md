@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 16: January 16th, 2017 ()
+### Day 19: January 19th, 2017 ()
 
 **Today's Progress:**
 
@@ -12,6 +12,16 @@
 
 _____________________________________________________________________
 -->
+
+### Day 18: January 18th, 2017 (Did maintenance on my portfolio site)
+
+**Today's Progress:** Minor bugfix for my portfolio site
+
+**Thoughts:** Nothing major, updates the HTML template to load the styles correctly.
+
+**Link(s) to work:** [Portfolio Site](http://royscheffers.com)
+
+_____________________________________________________________________
 
 ### Day 17: January 17th, 2017 (Final finishing touch to the front-end login app)
 
