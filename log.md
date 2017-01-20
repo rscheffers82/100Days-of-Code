@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 19: January 19th, 2017 ()
+### Day 20: January 20th, 2017 ()
 
 **Today's Progress:**
 
@@ -12,6 +12,25 @@
 
 _____________________________________________________________________
 -->
+
+### Day 19: January 19th, 2017 (Webpack with CSS Less)
+
+**Today's Progress:**
+A hard day where I tried to figure out to work out how to incorporate Less into the Isomorphic React Boiler plate.
+
+**Thoughts:**
+This boilerplate was given to me to build a new project on. I stripped out what was needed and started to implement several libraries to start working. Down the line Less files needed to be incorporated which I tried to figure out today. For some reason webpack was giving me a lot of problems. So I moved to a smaller project (listed below) and implemented it there, without too much struggle. It seems that the React Boiler plate renders code on both the server and client. (which is called Isomorphic). Called it a day as this template might be too complex to work off of for future projects and instead the stand alone single page app might be sufficient.
+
+At least learned to:
+- persist when things get tough and keep going with trying to figure out why things don't work
+- extend webpack to work together with Less, fairly similar as Sass
+- work with webpack and configure it to suite the project needs (still ongoing :)
+
+**Link(s) to work:** 
+[isomorphic React Boiler Plate](https://github.com/kriasoft/react-starter-kit)
+[Webpack project now using CSS Less](https://github.com/rscheffers82/webpack-exploration)
+
+_____________________________________________________________________
 
 ### Day 18: January 18th, 2017 (Did maintenance on my portfolio site)
 
