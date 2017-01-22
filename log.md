@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 20: January 20th, 2017 ()
+### Day 21: January 22nd, 2017 ()
 
 **Today's Progress:**
 
@@ -12,6 +12,19 @@
 
 _____________________________________________________________________
 -->
+
+### Day 20: January 21st, 2017 (React - explore test driven development)
+
+**Today's Progress:**
+Went back to the Advanced React - Redux course to finish the inner workings for the test suite section and complete the entire course! yay! :)
+
+**Thoughts:**
+Missed yesterday due to being away most of the day and coming home late at night, so continueing again today. I went over the test suite that was part of the advanced react redux course. I looked deeper into the Mocha and Chai libraries as well as react test utilities. It definitely helped me to understand where components are rendered to when running mocha from the command line as well as again an insight into the inner workings of the helper functions and the different assertions in the tests itself. This part was the last section I needed to finish before completing the course.
+
+**Link(s) to work:** 
+<br />[Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
+<br />[Advanced React Redux course certificate](https://www.udemy.com/certificate/UC-43P3PBTW)
+_____________________________________________________________________
 
 ### Day 19: January 19th, 2017 (Webpack with CSS Less)
 
