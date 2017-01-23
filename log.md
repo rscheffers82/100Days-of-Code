@@ -13,6 +13,15 @@
 _____________________________________________________________________
 -->
 
+### Day 21: January 22nd, 2017 (Node & Express project)
+
+**Today's Progress:** Started the first backend project from FreeCodeCamp, Timestamp Microservice
+
+**Thoughts:** Today was a fresh start in a new area for me, backend development. I've worked a little bit before with express and node.js but that was minimal. This project will be the next step to take backend development to the next level. I setup my initial files needed like index.html, server.js and README.md. Uploaded it all to GitHub and will continue with this tomorrow.
+
+**Link(s) to work:** [Timestamp Microservice](https://github.com/rscheffers82/timestamp-microservice)
+_____________________________________________________________________
+
 ### Day 20: January 21st, 2017 (React - explore test driven development)
 
 **Today's Progress:**
