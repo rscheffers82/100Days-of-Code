@@ -1,17 +1,27 @@
 # 100 Days Of Code - Log
 <!--
-### Day 21: January 22nd, 2017 ()
+### Day 23: January 24th, 2017 ()
 
 **Today's Progress:**
 
 
 **Thoughts:**
 
-
-**Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
+**Link(s) to work:** [Timestamp Microservice](https://github.com/rscheffers82/timestamp-microservice)
 
 _____________________________________________________________________
 -->
+
+### Day 22: January 23rd, 2017 (Node & Express project)
+
+**Today's Progress:** Managed to complete a few lectures on node and express on beta.freecodecamp.com which helped me along the way in my express / node project
+
+**Thoughts:**
+Learned more about express and how to use different routes and serve files and data base. I also figured out how to read user's input off the url using req.params and req.query. In the app I've added route logic as well as some basic function structure that will be used to check the input for a valid unix time stamp or a human readable date.
+
+**Link(s) to work:** [Timestamp Microservice](https://github.com/rscheffers82/timestamp-microservice)
+
+_____________________________________________________________________
 
 ### Day 21: January 22nd, 2017 (Node & Express project)
 
