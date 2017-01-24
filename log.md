@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 23: January 24th, 2017 ()
+### Day 24: January 25th, 2017 ()
 
 **Today's Progress:**
 
@@ -11,6 +11,22 @@
 
 _____________________________________________________________________
 -->
+
+### Day 23: January 24th, 2017 (Node & Express project)
+
+**Today's Progress:** Check for valid input. When valid convert to human and unix dates
+
+**Thoughts:** Wrestled with date conversation, human to unix and visa versa. Some helpful resources that I've used are:
+- [Moment.js](http://momentjs.com/docs/#/parsing/string-format)
+- [MDN Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [MDN Date.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/parse#Using_Date.parse())
+
+The app converts almost all valid input to a human and unix date except for a few odd ones. eg. 3311 and human dates with st, nd or th added to the day. Will add some error checking and handling tomorrow.
+
+**Link(s) to work:** [Timestamp Microservice](https://github.com/rscheffers82/timestamp-microservice)
+
+_____________________________________________________________________
+
 
 ### Day 22: January 23rd, 2017 (Node & Express project)
 
