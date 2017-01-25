@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 24: January 25th, 2017 ()
+### Day 25: January 26th, 2017 ()
 
 **Today's Progress:**
 
@@ -11,6 +11,21 @@
 
 _____________________________________________________________________
 -->
+
+### Day 24: January 25th, 2017 (Node & Express project)
+
+**Today's Progress:** Finished the timestamp microservice app today
+
+**Thoughts:** 
+- Fixed the bugs related to the date conversion. The problem lay in the order in which I made the conversion.
+- Refactured the code and migrated the conversion logic to its on module (keeping only the app setup and route logic in server.js)
+- Added some basic styles to the landing page
+- Deployed the app to heroku
+- Did my little victory dance :)
+
+**Link(s) to work:** [Timestamp Microservice on Heroku](http://rs-timestamp-ms.herokuapp.com)
+
+_____________________________________________________________________
 
 ### Day 23: January 24th, 2017 (Node & Express project)
 
