@@ -1,16 +1,32 @@
 # 100 Days Of Code - Log
+
 <!--
-### Day 25: January 26th, 2017 ()
+### Day 26: January 27th, 2017 ()
 
 **Today's Progress:**
 
 
 **Thoughts:**
 
-**Link(s) to work:** [Timestamp Microservice](https://github.com/rscheffers82/timestamp-microservice)
+**Link(s) to work:** [JSBIN - Using CSS transition property](http://jsbin.com/bopizej/1/edit?html,css,js,output)
 
 _____________________________________________________________________
 -->
+
+
+### Day 25: January 26th, 2017 (Improving CSS skills with transition and animation props)
+
+**Today's Progress:**
+In one of my projects I needed to animate certain aspects of the app, e.g. make the app drawer content appear smoothly. To get some experience with the CSS needed I created a small JS bin to experiment with this and used the article on MDN as a reference.
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+
+**Thoughts:**
+Learned something new in CSS. I never really went into animating things much, although, now I see it adds something extra to the user experience.
+
+**Link(s) to work:** [JSBIN - Using CSS transition property](http://jsbin.com/bopizej/1/edit?html,css,js,output)
+
+_____________________________________________________________________
+
 
 ### Day 24: January 25th, 2017 (Node & Express project)
 
