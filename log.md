@@ -19,7 +19,7 @@ _____________________________________________________________________
 Today I've worked on getting the styles sorted for a react component that will allow a user to add annotations to an article. The main work I've done was creating the visual elements on the screen that use for user input eg. creating and editing annotations.
 
 **Thoughts:**
-I needed to overlay several items on top of each other using CSS. I used a combination of the below tags to get it sorted, as well as created two JS bins to try a few things out. (<i>Hot reload in react is great but still not as fast as jsbin)
+I needed to overlay several items on top of each other using CSS. I used a combination of the below tags to get it sorted, as well as created two JS bins to try a few things out. (<i>Hot reload in react is great but still not as fast as jsbin</i>)
 - flexbox
 - absolute and relative positioning
 - z-index
