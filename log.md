@@ -13,6 +13,23 @@
 _____________________________________________________________________
 -->
 
+### Day 26: January 27th, 2017 (On the menu today: CSS styles)
+
+**Today's Progress:**
+Today I've worked on getting the styles sorted for a react component that will allow a user to add annotations to an article. The main work I've done was creating the visual elements on the screen that use for user input eg. creating and editing annotations.
+
+**Thoughts:**
+I needed to overlay several items on top of each other using CSS. I used a combination of the below tags to get it sorted, as well as created two JS bins to try a few things out. (<i>Hot reload in react is great but still not as fast as jsbin)
+- flexbox
+- absolute and relative positioning
+- z-index
+- used wildcards in CSS and JS to select multiple classes at once
+
+**Link(s) to work:** 
+<br />[JSBIN - Centering in CSS](http://jsbin.com/jaxilib/3/edit?html,css,output)
+<br />[JSBIN - Wildcards in CSS and JS](http://jsbin.com/bubeco/edit?html,css,js,output)
+_____________________________________________________________________
+
 
 ### Day 25: January 26th, 2017 (Improving CSS skills with transition and animation props)
 
