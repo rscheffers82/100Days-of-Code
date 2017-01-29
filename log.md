@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 26: January 27th, 2017 ()
+### Day 28: January 29th, 2017 ()
 
 **Today's Progress:**
 
@@ -12,6 +12,18 @@
 
 _____________________________________________________________________
 -->
+
+### Day 27: January 28th, 2017 (Material UI - Drawer component)
+
+**Today's Progress:** Trying to figure out if I can use the app drawer from Material UI for an app I'm developing. The app is a reader for texts and the drawer will be used to make annotations.
+
+**Thoughts:** At this stage I managed to get the app working with the drawer but I'm unsure if I can use this component. One requirement for the project is that the annotations show up next to the text on normal to large screens. For mobile devices the annotations should display at the bottom of the screen. Until now it looks like the app drawer will only show up on the side with no easy option to move it to the bottom of the screen when the screen-size is smaller.
+Unfortunately, the repo is private so I cannot share a link to my work but here's the link to the component I'm referring to and used.
+
+**Link(s) to work:** [Material UI - Drawer](http://www.material-ui.com/#/components/drawer)
+
+_____________________________________________________________________
+
 
 ### Day 26: January 27th, 2017 (On the menu today: CSS styles)
 
