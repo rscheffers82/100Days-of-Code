@@ -1,17 +1,45 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 28: January 29th, 2017 ()
+### Day 31: February 1st, 2017 ()
 
-**Today's Progress:**
+**Today's Progress:** 
 
+**Thoughts:** 
 
-**Thoughts:**
+**Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+-->
+<!--
+### Day 30: January 31st, 2017 ()
 
-**Link(s) to work:** [JSBIN - Using CSS transition property](http://jsbin.com/bopizej/1/edit?html,css,js,output)
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+-->
+
+<!--
+### Day 29: January 30th, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+-->
+
+### Day 28: January 29th, 2017 (CSS flexbox and fixed positioning)
+
+**Today's Progress:** Worked a bit on a different solution for replacing the Material UI drawer component but mimicing its behavior.
+
+**Thoughts:** With flexbox, fixed positioning and CSS media queries I've created another mock solution to create a drawer that could be used in the annotations app. It definitely testing my understanding of flexbox. I have to sit down and work with it more often to wrap my head properly around all the available options.
+One good resource I found is [Flexy Boxes](http://the-echoplex.net/flexyboxes/) which allows you to quickly layout flexboxes by setting the options for the container and child boxes.
+
+**Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
 
 _____________________________________________________________________
--->
+
 
 ### Day 27: January 28th, 2017 (Material UI - Drawer component)
 
