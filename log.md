@@ -10,16 +10,15 @@
 **Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
 _____________________________________________________________________
 -->
-<!--
-### Day 30: January 31st, 2017 ()
 
-**Today's Progress:** 
+### Day 30: January 31st, 2017 (React Component)
 
-**Thoughts:** 
+**Today's Progress:** Managed to get the small React ES6 Component to work. App.js is the parent and container component that manages state. It passes a function to component Toggle as a prop. Toggle displays two buttons that pass input back through the prop function to the parent. The parent then passes the state to the View component as a prop and displays is.
 
-**Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+**Thoughts:** A very simple app that helped me to understand how to pass a function down as prop to child components and how they in turn return input to the parent. State in this way in managed in one component and this component can pass its data down to other child components. As simple as this exmple is, it'll be a useful reference when apps become more complex and look back on how to manage state in a container component and gather and pass it to children.
+
+**Link(s) to work:** [React ES6 Component function to child](https://rscheffers82.github.io/ES6-component-function-to-child/)
 _____________________________________________________________________
--->
 
 
 ### Day 29: January 30th, 2017 (React and CSS)
