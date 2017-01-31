@@ -32,8 +32,8 @@ Besides that I created a little react project to explore the React ES6 class Com
 See above. Busy day but managed to get a lot of things done.
 
 **Link(s) to work:** 
-[JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
-[ES6 react Component test](https://github.com/rscheffers82/ES6-component-function-to-child)
+<br />[JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+<br />[ES6 react Component test](https://github.com/rscheffers82/ES6-component-function-to-child)
 
 _____________________________________________________________________
 
