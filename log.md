@@ -8,6 +8,7 @@
 **Thoughts:** 
 
 **Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+_____________________________________________________________________
 -->
 <!--
 ### Day 30: January 31st, 2017 ()
@@ -17,17 +18,24 @@
 **Thoughts:** 
 
 **Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+_____________________________________________________________________
 -->
 
-<!--
-### Day 29: January 30th, 2017 ()
+
+### Day 29: January 30th, 2017 (React and CSS)
 
 **Today's Progress:** 
+Wored more on my possible app drawer and tried to implement it in the main project for the client. Managed to get through 75% of the implementation and static components are created. Tomorrow I'll add the functionality.
+Besides that I created a little react project to explore the React ES6 class Component. This project I want to use to learn more about how a container component can pass down a function to it's child. The child receives input, works it and passed it back to the parent through the function.
 
 **Thoughts:** 
+See above. Busy day but managed to get a lot of things done.
 
-**Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
--->
+**Link(s) to work:** 
+[JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+[ES6 react Component test](https://github.com/rscheffers82/ES6-component-function-to-child)
+
+_____________________________________________________________________
 
 ### Day 28: January 29th, 2017 (CSS flexbox and fixed positioning)
 
