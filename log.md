@@ -1,15 +1,33 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 32: February 2nd, 2017 (API Header Parser API)
+### Day 33: February 3rd, 2017 (API Header Parser API)
 
 **Today's Progress:** 
 
 **Thoughts:** 
 
 **Link(s) to work:** [Header Parser API](https://github.com/rscheffers82/API-microservices)
+http://nodejs-mongo-persistent-testapp-on-openshift11.44fs.preview.openshiftapps.com/
 _____________________________________________________________________
 -->
+
+### Day 32: February 2nd, 2017 (API Header Parser API & RedHat's OpenShift platform)
+
+**Today's Progress:** 
+Worked for about an hour and a half on the request header API project. Currently all the information is gathered from the header either directly from the request object or with the use of the os and accepts libraries. Last thing is to display the information a bit better.
+Besides that I was finally given an account on [RedHat's OpenShift platform](https://www.openshift.com). I registered and managed to deploy my first example app on their service. Pretty straight forward and awesome to see how GitHub Webhooks can be used to automatically trigger a build when a new update is pushed to the remote. As they are testing their service, only developer accounts are available for maximum a month ( for free though :) ) 
+
+**Thoughts:** 
+Little steps made again in this busy week, but nevertheless, many small steps forward make a mile :)
+<br />The OpenShift platform is pretty cool. Hopefully I'll be able to test my prior server auth app there as it offers several environments e.g. NodeJS and MongoDB.
+
+**Link(s) to work:** 
+<br />[Header Parser API](https://github.com/rscheffers82/API-microservices)
+<br />[First app on RedHat's OpenShift platform <i>(1 month available only)</i>](http://nodejs-mongo-persistent-testapp-on-openshift11.44fs.preview.openshiftapps.com)
+
+_____________________________________________________________________
+
 
 ### Day 31: February 1st, 2017 (API Header Parser API)
 
