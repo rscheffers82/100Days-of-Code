@@ -1,15 +1,26 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 31: February 1st, 2017 ()
+### Day 32: February 2nd, 2017 (API Header Parser API)
 
 **Today's Progress:** 
 
 **Thoughts:** 
 
-**Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
+**Link(s) to work:** [Header Parser API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
+
+### Day 31: February 1st, 2017 (API Header Parser API)
+
+**Today's Progress:** Today was busy, but luckily managed to spend an hour on the next API project.
+
+**Thoughts:** Created a new route in the API app to display the request header request details. Besides that I researched how to request user data from the request object returned from Express.js. Little progress and more resource gathering at this stage.
+
+**Link(s) to work:** [Header Parser API](https://github.com/rscheffers82/API-microservices)
+
+_____________________________________________________________________
+
 
 ### Day 30: January 31st, 2017 (React Component)
 
