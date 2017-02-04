@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 33: February 3rd, 2017 (API Header Parser API)
+### Day 34: February 4th, 2017 (API Header Parser API)
 
 **Today's Progress:** 
 
@@ -11,6 +11,17 @@
 http://nodejs-mongo-persistent-testapp-on-openshift11.44fs.preview.openshiftapps.com/
 _____________________________________________________________________
 -->
+
+
+### Day 33: February 3rd, 2017 (API Header Parser API)
+
+**Today's Progress:** Worked a bit more on the API header parser app. Deployed it to heroku and it looks like the OS sytem is read from the host instead of the client. So have to find another way of getting the client's OS. Haven't found out yet how.
+
+**Thoughts:** Busy day so only managed to spend about an hour on this.
+
+**Link(s) to work:** [Header Parser API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+
 
 ### Day 32: February 2nd, 2017 (API Header Parser API & RedHat's OpenShift platform)
 
