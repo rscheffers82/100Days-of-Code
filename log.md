@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 34: February 4th, 2017 (API Header Parser API)
+### Day 35: February 7th, 2017 (API Header Parser API)
 
 **Today's Progress:** 
 
@@ -12,6 +12,16 @@ http://nodejs-mongo-persistent-testapp-on-openshift11.44fs.preview.openshiftapps
 _____________________________________________________________________
 -->
 
+### Day 34: February 6th, 2017 (API Header Parser API)
+
+**Today's Progress:** Finished the Header Parser API service! :D
+
+**Thoughts:** After not having coded for 2 days due to travel, I'm back on and to my surprise found the info I needed to completed this FreeCodeCamp Challenge. For some reason I was not able to find the correct way to obtain the requesters OS system. Turns out this information is tucked away in User-Agent and can be obtained using `req.get('User-Agent')`. Once I found this on stack overflow, I was able to use a regex to extract the info and add it to the json object that is send back. Job done! Sometimes these little things can take a long time. Part of a developer's life it seems.
+
+**Link(s) to work:** 
+<br />[Header Parser API](https://github.com/rscheffers82/API-microservices)
+<br />[Free Code Camp Challenge](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
+_____________________________________________________________________
 
 ### Day 33: February 3rd, 2017 (API Header Parser API)
 
