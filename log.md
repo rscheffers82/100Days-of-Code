@@ -1,16 +1,30 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 35: February 7th, 2017 (API Header Parser API)
+### Day 36: February 8th, 2017 (API Header Parser API)
 
 **Today's Progress:** 
 
 **Thoughts:** 
 
-**Link(s) to work:** [Header Parser API](https://github.com/rscheffers82/API-microservices)
-http://nodejs-mongo-persistent-testapp-on-openshift11.44fs.preview.openshiftapps.com/
+**Link(s) to work:** [Header Parser API](http://jsbin.com/kilajop/edit?html,css,js,output)
+
 _____________________________________________________________________
 -->
+### Day 35: February 7th, 2017 (Annotation paragraph hover mockup)
+
+**Today's Progress:** worked on a mock up example to test functionality for a larger react app.
+
+**Thoughts:** 
+<br />An app has the following requirements:
+- Initial paragraphs cannot be modified (<i>they are loaded in from an external source</i>)
+- When hovering over a paragraph, annotation icons should show beside it
+- When icons are clicked annotations related to that paragraph are be displayed.
+
+I'm trying to mimic this behavior in a more simplistic way. So far I managed to display the icons on hover. Next step is to ensure a unique number is given to the icon, so when clicked the related annotation(s) are displayed. In this example a unique number will be shown. That's something for tomorrow.
+
+**Link(s) to work:** [JSBIN - Paragraph hover, show icons](http://jsbin.com/kilajop/edit?html,css,js,output)
+_____________________________________________________________________
 
 ### Day 34: February 6th, 2017 (API Header Parser API)
 
