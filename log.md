@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
-
 <!--
-### Day 36: February 8th, 2017 (API Header Parser API)
+### Day 38: February 10th, 2017 ()
 
 **Today's Progress:** 
 
@@ -11,6 +10,33 @@
 
 _____________________________________________________________________
 -->
+<!--
+### Day 37: February 9th, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [Header Parser API](http://jsbin.com/kilajop/edit?html,css,js,output)
+
+_____________________________________________________________________
+-->
+
+### Day 36: February 8th, 2017 (URL Shortener API)
+
+**Today's Progress:** Started the 3rd API project
+
+**Thoughts:** Mainly worked on the foundation for the project to take off from. Here's the list of tasks done:
+- Created an intro page for the API project that explains what the API does and how to use it.
+- Added the default route `shorten` which shows the intro page
+- Created the shortener route `short` which will be used to catch input and provide JSON data back
+- Registered with mLab and setup a database that will be used
+- Created a config file which stores login data (<i>later stored values will be used to set environment vars</i>)
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+
+_____________________________________________________________________
+
 ### Day 35: February 7th, 2017 (Annotation paragraph hover mockup)
 
 **Today's Progress:** worked on a mock up example to test functionality for a larger react app.
@@ -26,7 +52,7 @@ I'm trying to mimic this behavior in a more simplistic way. So far I managed to 
 **Link(s) to work:** [JSBIN - Paragraph hover, show icons](http://jsbin.com/kilajop/edit?html,css,js,output)
 _____________________________________________________________________
 
-### Day 34: February 6th, 2017 (API Header Parser API)
+### Day 34: February 6th, 2017 (Header Parser API)
 
 **Today's Progress:** Finished the Header Parser API service! :D
 
@@ -37,7 +63,7 @@ _____________________________________________________________________
 <br />[Free Code Camp Challenge](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
 _____________________________________________________________________
 
-### Day 33: February 3rd, 2017 (API Header Parser API)
+### Day 33: February 3rd, 2017 (Header Parser API)
 
 **Today's Progress:** Worked a bit more on the API header parser app. Deployed it to heroku and it looks like the OS sytem is read from the host instead of the client. So have to find another way of getting the client's OS. Haven't found out yet how.
 
@@ -47,7 +73,7 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-### Day 32: February 2nd, 2017 (API Header Parser API & RedHat's OpenShift platform)
+### Day 32: February 2nd, 2017 (Header Parser API & RedHat's OpenShift platform)
 
 **Today's Progress:** 
 Worked for about an hour and a half on the request header API project. Currently all the information is gathered from the header either directly from the request object or with the use of the os and accepts libraries. Last thing is to display the information a bit better.
@@ -64,7 +90,7 @@ Little steps made again in this busy week, but nevertheless, many small steps fo
 _____________________________________________________________________
 
 
-### Day 31: February 1st, 2017 (API Header Parser API)
+### Day 31: February 1st, 2017 (Header Parser API)
 
 **Today's Progress:** Today was busy, but luckily managed to spend an hour on the next API project.
 
