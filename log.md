@@ -10,17 +10,17 @@
 
 _____________________________________________________________________
 -->
-<!--
-### Day 37: February 9th, 2017 ()
 
-**Today's Progress:** 
+### Day 37: February 9th, 2017 (Annotation component)
+
+**Today's Progress:** Created, for now, static react component that displays one or several annotations made on a paragraph.
 
 **Thoughts:** 
 
-**Link(s) to work:** [Header Parser API](http://jsbin.com/kilajop/edit?html,css,js,output)
+**Link(s) to work:** [Link will follow](http://#)
 
 _____________________________________________________________________
--->
+
 
 ### Day 36: February 8th, 2017 (URL Shortener API)
 
