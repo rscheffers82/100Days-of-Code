@@ -1,23 +1,68 @@
 # 100 Days Of Code - Log
 <!--
-### Day 38: February 10th, 2017 ()
+### Day 42: February 14th, 2017 (URL Shortener API)
 
 **Today's Progress:** 
 
 **Thoughts:** 
 
-**Link(s) to work:** [Header Parser API](http://jsbin.com/kilajop/edit?html,css,js,output)
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+
+_____________________________________________________________________
+-->
+<!--
+### Day 41: February 13th, 2017 (URL Shortener API)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+
+_____________________________________________________________________
+-->
+<!--
+### Day 40: February 12th, 2017 (URL Shortener API)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+
+_____________________________________________________________________
+-->
+<!--
+### Day 39: February 11th, 2017 (URL Shortener API)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 
 _____________________________________________________________________
 -->
 
+### Day 38: February 10th, 2017 (URL Shortener API)
+
+**Today's Progress:** Added some minor changes to the intro page and mainly gathered information on how to tackle this challenge. I do realise I have to study MongoDB and Mongoose a little more to establish a connection with the database. 
+I also found a helpful library called [mongoose-shortid](https://www.npmjs.com/package/mongoose-shortid) which will help me to generate a unique identifier for the database which can also be re-used in the shortened URL.
+
+**Thoughts:** I always feel lost at the beginning of a project, especially if I'm unfamiliar with the technology I'll be using. I do start to recognise it sooner and it seems to be natural. When everything is open, I can go many ways and that brings freedom but also insecurity of where to go. Next steps before I proceed with coding will be to learn more about Mongo and Mongoose. From there the rest should fall into place.
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+
+_____________________________________________________________________
+
+
 ### Day 37: February 9th, 2017 (Annotation component)
 
-**Today's Progress:** Created, for now, static react component that displays one or several annotations made on a paragraph.
+**Today's Progress:** Created, for now, a static react component that displays one or several annotations made on a paragraph.
 
-**Thoughts:** 
+**Thoughts:** Created a static display component that shows one annotation. It will be re-used for each annotation made. The flow of those is managed by the annotation drawer. When an annotation is edited, it will be saved as a revision. When someone replies to an annotation, the create component will be loaded.
 
-**Link(s) to work:** [Link will follow](http://#)
+**Link(s) to work:** Unfortunately this project is private so I cannot share a link to this work, maybe later when the product is ready and live ;)
 
 _____________________________________________________________________
 
