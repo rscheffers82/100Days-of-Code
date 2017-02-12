@@ -32,17 +32,22 @@ _____________________________________________________________________
 
 _____________________________________________________________________
 -->
-<!--
-### Day 39: February 11th, 2017 (URL Shortener API)
 
-**Today's Progress:** 
+### Day 39: February 11th, 2017 (MongoDB and Mongoose side-project)
 
-**Thoughts:** 
+**Today's Progress:** To get more acquainted with MongoDB and Mongoose I deviated from the FreeCodeCamp course to do a little side project and brush up on database stuff.
 
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+**Thoughts:** Lovin' it! It's always nice to learn about something you need and when there's that click when it becomes familiar as well as see how you can use the new knowledge in the project you need it for. That is what happened today. Learned the following:
+- connect to MongoDB using Mongoose
+- Setup a Schema and Model and make it available in other files
+- Create a new instance of the model e.g. a new user and save it to the collection (I love promises :)
+- Search the DB using the `.find()` and `.findone()` functions available.
+- NOTE: `._id` object on each entry needs `.toString()` function to be able to compare it's actual content (it's wrapped in an object and needs to be converted to a string)
+
+**Link(s) to work:** [GitHub repo](https://github.com/rscheffers82/mongodb-exploration)
 
 _____________________________________________________________________
--->
+
 
 ### Day 38: February 10th, 2017 (URL Shortener API)
 
