@@ -7,7 +7,6 @@
 **Thoughts:** 
 
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
-
 _____________________________________________________________________
 -->
 <!--
@@ -18,22 +17,24 @@ _____________________________________________________________________
 **Thoughts:** 
 
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
-
 _____________________________________________________________________
 -->
-<!--
-### Day 40: February 12th, 2017 (URL Shortener API)
+### Day 40: February 12th, 2017 (MongoDB and Mongoose side-project 2/2)
 
-**Today's Progress:** 
+**Today's Progress:** Worked some more with MongoDB and Mongoose
 
-**Thoughts:** 
+**Thoughts:** Learned more about:
+- updating records (<i>there are about 5 methods you can use</i>)
+- deleting records (<i>there are about 4 methods you can use</i>)
 
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+Looking forward to implement this into the [URL shortener API project](https://github.com/rscheffers82/API-microservices) tomorrow :D
 
+**Link(s) to work:** [GitHub repo](https://github.com/rscheffers82/mongodb-exploration)
 _____________________________________________________________________
--->
 
-### Day 39: February 11th, 2017 (MongoDB and Mongoose side-project)
+
+
+### Day 39: February 11th, 2017 (MongoDB and Mongoose side-project 1/2)
 
 **Today's Progress:** To get more acquainted with MongoDB and Mongoose I deviated from the FreeCodeCamp course to do a little side project and brush up on database stuff.
 
@@ -45,7 +46,6 @@ _____________________________________________________________________
 - NOTE: `._id` object on each entry needs `.toString()` function to be able to compare it's actual content (it's wrapped in an object and needs to be converted to a string)
 
 **Link(s) to work:** [GitHub repo](https://github.com/rscheffers82/mongodb-exploration)
-
 _____________________________________________________________________
 
 
@@ -57,7 +57,6 @@ I also found a helpful library called [mongoose-shortid](https://www.npmjs.com/p
 **Thoughts:** I always feel lost at the beginning of a project, especially if I'm unfamiliar with the technology I'll be using. I do start to recognise it sooner and it seems to be natural. When everything is open, I can go many ways and that brings freedom but also insecurity of where to go. Next steps before I proceed with coding will be to learn more about Mongo and Mongoose. From there the rest should fall into place.
 
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
-
 _____________________________________________________________________
 
 
@@ -68,7 +67,6 @@ _____________________________________________________________________
 **Thoughts:** Created a static display component that shows one annotation. It will be re-used for each annotation made. The flow of those is managed by the annotation drawer. When an annotation is edited, it will be saved as a revision. When someone replies to an annotation, the create component will be loaded.
 
 **Link(s) to work:** Unfortunately this project is private so I cannot share a link to this work, maybe later when the product is ready and live ;)
-
 _____________________________________________________________________
 
 
@@ -84,7 +82,6 @@ _____________________________________________________________________
 - Created a config file which stores login data (<i>later stored values will be used to set environment vars</i>)
 
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
-
 _____________________________________________________________________
 
 ### Day 35: February 7th, 2017 (Annotation paragraph hover mockup)
@@ -101,6 +98,7 @@ I'm trying to mimic this behavior in a more simplistic way. So far I managed to 
 
 **Link(s) to work:** [JSBIN - Paragraph hover, show icons](http://jsbin.com/kilajop/edit?html,css,js,output)
 _____________________________________________________________________
+
 
 ### Day 34: February 6th, 2017 (Header Parser API)
 
@@ -136,7 +134,6 @@ Little steps made again in this busy week, but nevertheless, many small steps fo
 **Link(s) to work:** 
 <br />[Header Parser API](https://github.com/rscheffers82/API-microservices)
 <br />[First app on RedHat's OpenShift platform <i>(1 month available only)</i>](http://nodejs-mongo-persistent-testapp-on-openshift11.44fs.preview.openshiftapps.com)
-
 _____________________________________________________________________
 
 
@@ -147,7 +144,6 @@ _____________________________________________________________________
 **Thoughts:** Created a new route in the API app to display the request header request details. Besides that I researched how to request user data from the request object returned from Express.js. Little progress and more resource gathering at this stage.
 
 **Link(s) to work:** [Header Parser API](https://github.com/rscheffers82/API-microservices)
-
 _____________________________________________________________________
 
 
@@ -173,8 +169,8 @@ See above. Busy day but managed to get a lot of things done.
 **Link(s) to work:** 
 <br />[JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
 <br />[ES6 react Component test](https://github.com/rscheffers82/ES6-component-function-to-child)
-
 _____________________________________________________________________
+
 
 ### Day 28: January 29th, 2017 (CSS flexbox and fixed positioning)
 
@@ -184,7 +180,6 @@ _____________________________________________________________________
 One good resource I found is [Flexy Boxes](http://the-echoplex.net/flexyboxes/) which allows you to quickly layout flexboxes by setting the options for the container and child boxes.
 
 **Link(s) to work:** [JSBIN - Possible App Drawer, desktop and mobile view](http://jsbin.com/muxuba/edit?html,css,output)
-
 _____________________________________________________________________
 
 
@@ -196,7 +191,6 @@ _____________________________________________________________________
 Unfortunately, the repo is private so I cannot share a link to my work but here's the link to the component I'm referring to and used.
 
 **Link(s) to work:** [Material UI - Drawer](http://www.material-ui.com/#/components/drawer)
-
 _____________________________________________________________________
 
 
@@ -228,7 +222,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_trans
 Learned something new in CSS. I never really went into animating things much, although, now I see it adds something extra to the user experience.
 
 **Link(s) to work:** [JSBIN - Using CSS transition property](http://jsbin.com/bopizej/1/edit?html,css,js,output)
-
 _____________________________________________________________________
 
 
@@ -244,8 +237,8 @@ _____________________________________________________________________
 - Did my little victory dance :)
 
 **Link(s) to work:** [Timestamp Microservice on Heroku](http://rs-timestamp-ms.herokuapp.com)
-
 _____________________________________________________________________
+
 
 ### Day 23: January 24th, 2017 (Node & Express project)
 
@@ -259,7 +252,6 @@ _____________________________________________________________________
 The app converts almost all valid input to a human and unix date except for a few odd ones. eg. 3311 and human dates with st, nd or th added to the day. Will add some error checking and handling tomorrow.
 
 **Link(s) to work:** [Timestamp Microservice](https://github.com/rscheffers82/timestamp-microservice)
-
 _____________________________________________________________________
 
 
@@ -271,8 +263,8 @@ _____________________________________________________________________
 Learned more about express and how to use different routes and serve files and data base. I also figured out how to read user's input off the url using req.params and req.query. In the app I've added route logic as well as some basic function structure that will be used to check the input for a valid unix time stamp or a human readable date.
 
 **Link(s) to work:** [Timestamp Microservice](https://github.com/rscheffers82/timestamp-microservice)
-
 _____________________________________________________________________
+
 
 ### Day 21: January 22nd, 2017 (Node & Express project)
 
@@ -282,6 +274,7 @@ _____________________________________________________________________
 
 **Link(s) to work:** [Timestamp Microservice](https://github.com/rscheffers82/timestamp-microservice)
 _____________________________________________________________________
+
 
 ### Day 20: January 21st, 2017 (React - explore test driven development)
 
@@ -295,6 +288,7 @@ Missed yesterday due to being away most of the day and coming home late at night
 <br />[Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
 <br />[Advanced React Redux course certificate](https://www.udemy.com/certificate/UC-43P3PBTW)
 _____________________________________________________________________
+
 
 ### Day 19: January 19th, 2017 (Webpack with CSS Less)
 
@@ -312,8 +306,8 @@ At least learned to:
 **Link(s) to work:** 
 [isomorphic React Boiler Plate](https://github.com/kriasoft/react-starter-kit)
 [Webpack project now using CSS Less](https://github.com/rscheffers82/webpack-exploration)
-
 _____________________________________________________________________
+
 
 ### Day 18: January 18th, 2017 (Did maintenance on my portfolio site)
 
@@ -322,8 +316,8 @@ _____________________________________________________________________
 **Thoughts:** Nothing major, updates the HTML template to load the styles correctly.
 
 **Link(s) to work:** [Portfolio Site](http://royscheffers.com)
-
 _____________________________________________________________________
+
 
 ### Day 17: January 17th, 2017 (Final finishing touch to the front-end login app)
 
@@ -363,8 +357,8 @@ Managed to further build out the secure part of the application. Used the axios 
 Nothing spectacularly new learned, just implementing the techniques that I've used before which helps to become more familair with building apps on react. A few more days to go and the app will be finished.
 
 **Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
-
 _____________________________________________________________________
+
 
 ### Day 15: January 15th, 2017 (Login App - connect front-end to back-end)
 
@@ -373,7 +367,6 @@ _____________________________________________________________________
 **Thoughts:** Studied the axios library more to better understand and how data is send back from an API request when successfull or when it failed.
 
 **Link(s) to work:** [Front-End login app](https://github.com/rscheffers82/front-end-login-app)
-
 _____________________________________________________________________
 
 
@@ -394,7 +387,6 @@ _____________________________________________________________________
 **Thoughts:** Used react-router from react and the connect component from react-redux to create a basic but functional header component. I have used both before in prior projects, so today was more of a day in where I repeated some of the concepts I learned about. I had to refer back to prior projects to check out how I did some parts again, so it was a good repeat to hopefully remember this for next time. I'm finding myself putting down a fair amount of code before needing to go back and check code. Using react and redux slowely but surely starts to feel familiar :)
 
 **Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
-
 _____________________________________________________________________
 
 
@@ -408,7 +400,6 @@ So far the login part is working after resolving a CORS issue on the server side
 **Link(s) to work:**<br>
 [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)<br>
 [API auth server (fix CORS)](https://github.com/rscheffers82/API-auth-server)
-
 _____________________________________________________________________
 
 
@@ -419,7 +410,6 @@ _____________________________________________________________________
 **Thoughts:** Today I spend most of the time to hash out the specifics of this project before starting to code. This little app will be build on React and Redux and it will use the prior API project I build to login. This app will have 4 different routes. "/", "/login", "/logout", "/feature". The "feature" route should only be accessible when a use has signed up and logged in. Looking forward to roll this out over the next week or so. :)
 
 **Link(s) to work:** [Front-End login app on React and Redux](https://github.com/rscheffers82/front-end-login-app)
-
 _____________________________________________________________________
 
 
@@ -430,7 +420,6 @@ _____________________________________________________________________
 **Thoughts:** Glad I went back to basics. It's nice to really try to understand JavaScript well. It's one thing to put code down that works, and another to put code down that works and you understand why you choose this solution. I feel I'm moving towards the latter :) and I'm looking forward to work my way through the series.
 
 **Link(s) to work:** [Scope and Closures - You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
-
 _____________________________________________________________________
 
 
@@ -441,7 +430,6 @@ _____________________________________________________________________
 **Thoughts:** Added a small node / express server to the webpack project which allows local development and production deployment to Heroku and AWS. Fun stuff and I'm looking forward to deploy more projects.
 
 **Link(s) to work:** [Influence on Codepen](https://github.com/rscheffers82/webpack-exploration2)
-
 _____________________________________________________________________
 
 
@@ -454,7 +442,6 @@ Build another webpack project from scratch and used an existing react project to
 Had quite some time on Sunday to explore webpack, performance, and process optimization again. It was really mind blowing. I definitely learned more about webpack and how modules and plugins work together. But more so the process I use to build projects has massively improved. This will surely shave off some valuable time during next development projects. More feedback on this you'll find in the [README](https://github.com/rscheffers82/webpack-exploration2/blob/master/README.md) file within the GitHub repo.
 
 **Link(s) to work:** [More webpack exploration and build process optimization](https://github.com/rscheffers82/webpack-exploration2)
-
 _____________________________________________________________________
 
 
@@ -467,7 +454,6 @@ Managed to finish the first part of a webpack tutorial.
 Having used webpack for several React projects. I did not fully understand how to create a `webpack.config.js` file. Some code within it made sense, while other parts were like Chinese to me. Creating such a file from the group up and reading up on those parts helped to wrap my head around the various options in there. For future projects, I now know which parts to include and which to leave out.
 
 **Link(s) to work:** [GitHub repo](https://github.com/rscheffers82/webpack-exploration)
-
 _____________________________________________________________________
 
 
@@ -480,7 +466,6 @@ Made some improvements to my portfolio website
 It was nice to fiddle around again with some CSS and make things look nice on the screen. The last few days I've worked more with code and backend stuff, so this was a nice change. I also worked on updating the description of some projects so they highlight the things I learned and which technologies I used.
 
 **Link(s) to work:** [royscheffers.com](http://royscheffers.com)
-
 _____________________________________________________________________
 
 
@@ -493,7 +478,6 @@ Felt the need to bugfix an older app
 I've build this little app on codepen a while ago to determine which numerological day the current day adds up to. I had some bugs for certain days, so fixed those bugs and ran some tests. Thinking of adding react to the app and several views, today, monthly overview, search.
 
 **Link(s) to work:** [Influence: a  CodePen project](http://codepen.io/roycode/pen/RKNzao)
-
 _____________________________________________________________________
 
 
@@ -506,7 +490,6 @@ Completed the API auth server.
 Wrestled quite a bit with passport and the setup of strategies. Luckily, I had enough time on my hands to sit down with the code and make it work. <i>#feelingsatisfied</i>
 
 **Link(s) to work:** [API authentication server](https://github.com/rscheffers82/server-authentication)
-
 _____________________________________________________________________
 
 
@@ -519,7 +502,6 @@ Created new repo and setup a fair chunck of the server and user authentication u
 Definitely enjoyed working with the backend and I love those moments when things start to work. Luckily I had a few hours of undisturbed coding time which helped to get my mind around some of the new concepts.
 
 **Link(s) to work:** [API authentication server](https://github.com/rscheffers82/server-authentication)
-
 _____________________________________________________________________
 
 
@@ -532,7 +514,6 @@ Managed to code a couple of hours and explore redux middleware
 Wrapping a function into a function into a function is mind boggling but at least I understand how to tap into middleware and add it to React-redux.
 
 **Link(s) to work:** [Redux middleware](https://github.com/rscheffers82/redux-middleware-exploration)
-
 _____________________________________________________________________
 
 
