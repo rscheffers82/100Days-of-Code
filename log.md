@@ -9,16 +9,19 @@
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
+
 ### Day 41: February 13th, 2017 (URL Shortener API)
 
-**Today's Progress:** 
+**Today's Progress:** It was a long day but luckily managed to dedicate an hour to this project. Mainly setup...
 
 **Thoughts:** 
+I was unable to install mongoose-shortid as the module was having issues with dependencies. On GitHub I found [this tread](https://github.com/jjwchoy/mongoose-shortid/issues/23) which offers [another package derived from mongoose-shortid](https://github.com/leeroybrun/mongoose-shortid-nodeps) that doesn't require the bignum dependency. Installed that module and it seems to work. Next, I refined the Schema to include mongoose-shortId and connected the server to MongoDB which I'm running locally.
+
+Today was mainly about setup, so hopefully I'll be able to write and read something from and to the DB tomorrow.
 
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
--->
+
 ### Day 40: February 12th, 2017 (MongoDB and Mongoose side-project 2/2)
 
 **Today's Progress:** Worked some more with MongoDB and Mongoose
