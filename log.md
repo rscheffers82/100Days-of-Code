@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 42: February 14th, 2017 (URL Shortener API)
+### Day 46: February 18th, 2017 ()
 
 **Today's Progress:** 
 
@@ -9,6 +9,41 @@
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
+<!--
+### Day 45: February 17th, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+<!--
+### Day 44: February 16th, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+
+### Day 43: February 15th, 2017 (COMPLETED: URL Shortener API :)
+
+**Today's Progress:** Project clean-up and deployment to heroku and mlab.
+- Connected the MongoDB on mLab to the app.
+- Removed hard-coded URLs and set environment vars instead. This way the app will also work on Heroku without uploading sensitive information.
+- Removed redundant code 
+
+**Thoughts:** It was awesome to build this project. I'm coming to terms with coding on the backend side and can see the difference. Very pleased to see the webserver work with the mongoDB, first locally and finally all online. URLs are shortened and redirect when visiting them!
+
+**Link(s) to work:** 
+<br />[Live example on Heroku](https://rs82.herokuapp.com/shorten/)
+<br />[Code on GitHub](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+
 
 ### Day 42: February 14th, 2017 (URL Shortener API)
 
