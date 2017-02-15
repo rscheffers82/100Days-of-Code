@@ -10,6 +10,20 @@
 _____________________________________________________________________
 -->
 
+### Day 42: February 14th, 2017 (URL Shortener API)
+
+**Today's Progress:** 
+Things are started to work, longURL in, shortURL out :)
+
+**Thoughts:** 
+With the database setup, configured and a links Schema defined, I was quickly able to write some data to mongo. Once URLs were saved, using the `/shorten` route, I configured the `/short` route to catch the shortened URL, search the database for the shortcode and return the saved URL. The URL is then used to redirect the user to original website.
+
+I only need to make sure URLs are saved with the http:// extension when it is provided in the url.
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+
+
 ### Day 41: February 13th, 2017 (URL Shortener API)
 
 **Today's Progress:** It was a long day but luckily managed to dedicate an hour to this project. Mainly setup...
