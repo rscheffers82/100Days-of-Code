@@ -19,16 +19,19 @@ _____________________________________________________________________
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 44: February 16th, 2017 ()
 
-**Today's Progress:** 
+### Day 44: February 16th, 2017 (Completed the File Metadata API challenge)
 
-**Thoughts:** 
+**Today's Progress:** Made a start at the next challenge, File Metadata API, things just flew and before I knew it the assignment was done.
 
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+**Thoughts:** Compared to the prior API project, this one didn't require any mongoDB configuration so setup was much quicker.
+Although similar in structure, the main difference in this assignment was that the express server needed to fetch POST data instead of GET. Once that was in place, the API file catches the data on the `request` object and returns JSON data.
+
+**Link(s) to work:** 
+<br />[Live example on Heroku](https://rs82.herokuapp.com/filedata)
+<br />[Code on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
--->
+
 
 ### Day 43: February 15th, 2017 (COMPLETED: URL Shortener API :)
 
