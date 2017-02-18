@@ -9,16 +9,20 @@
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 45: February 17th, 2017 ()
 
-**Today's Progress:** 
+### Day 45: February 17th, 2017 (More MongoDB exploration)
 
-**Thoughts:** 
+**Today's Progress:** Learned more about MongoDB operators and having DB validation in a Schema
 
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+**Thoughts:** Expanded the test suite to:
+- include a case when using the `$inc` operator. 
+- Validate a property to exist
+- Validate a property to have a certain length, name > 2 characters
+- Example of catching a failed save and display the message from the Schema required field
+
+**Link(s) to work:** [GitHub repo](https://github.com/rscheffers82/mongodb-exploration)
 _____________________________________________________________________
--->
+
 
 ### Day 44: February 16th, 2017 (Completed the File Metadata API challenge)
 
