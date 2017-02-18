@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 <!--
+### Day 50: February 22nd, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+<!--
+### Day 49: February 21st, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+<!--
+### Day 48: February 20th, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+<!--
+### Day 47: February 19th, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+<!--
 ### Day 46: February 18th, 2017 ()
 
 **Today's Progress:** 
@@ -9,6 +49,16 @@
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
+
+### Day 46: February 18th, 2017 (MongoDB)
+
+**Today's Progress:** Looked at MongoDB, nesting subdocuments into the main model what some of the pros and cons are.
+
+**Thoughts:** I'm starting to see that a mongoDB is quite different then a SQL DB. At the setup of an application, it seems vital to spend enough time on setting up the Models and how data will flow through the app. Looking forward to learn a more about this.
+
+**Link(s) to work:** [GitHub repo](https://github.com/rscheffers82/mongodb-exploration)
+_____________________________________________________________________
+
 
 ### Day 45: February 17th, 2017 (More MongoDB exploration)
 
