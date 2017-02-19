@@ -39,16 +39,23 @@ _____________________________________________________________________
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 46: February 18th, 2017 ()
 
-**Today's Progress:** 
+### Day 47: February 19th, 2017 (MongoDB - model associations and middleware)
 
-**Thoughts:** 
+**Today's Progress:** Extended the current project to learn more about associations and middleware.
 
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+Firstly, I added the `Comment` and `BlogPost` models to the test suite. In the `User` model I link the field Blogposts to the `BlogPost` model. And within the `BlogPost` model, the comments field is linked up to the `Comment` model.<br />
+Using `.populate()`, data which is linked to the user can be pulled in. Similarly, comments linked to a blogpost, can be pulled in too.
+
+After that, I wrote some middleware to ensure any blogposts associated with a user who is removed will be removed too. <i>(e.g. when a user is banned)</i>
+
+**Thoughts:** Leveling up with Mongo is awesome :)
+
+**Link(s) to work:** 
+<br />[GitHub repo](https://github.com/rscheffers82/mongodb-exploration)
+<br />[Repo / Associations file](https://github.com/rscheffers82/mongodb-exploration/blob/master/test/associations_test.js)
 _____________________________________________________________________
--->
+
 
 ### Day 46: February 18th, 2017 (MongoDB)
 
