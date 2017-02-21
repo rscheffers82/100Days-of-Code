@@ -19,26 +19,18 @@ _____________________________________________________________________
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 48: February 20th, 2017 ()
 
-**Today's Progress:** 
+### Day 48: February 20th, 2017 (Client WordPress site)
 
-**Thoughts:** 
+**Today's Progress:** A new website for a client wasn't showing correct navigation. Certain menu items were highlighted even though another link was clicked. These links were categories instead of pages. Initially, I thought this needed to be fixed with code in the template files. Later, I figured that some CSS would do the trick. It was a clean and simple solution, although it took a bit of time to figure it out. Stack Overflow to the rescue!
 
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+Besides that, I worked the featured blog area a little. It wasn't looking appealing, so with some styling it is looking better now.
+
+**Thoughts:** WordPress (PHP) coding is quite different compared to JavaScript, so it took a bit of time to understand what the code was doing. Also each WP theme / template is different and in this case it was already customized. Nevertheless, it was a nice challenge.
+
+**Link(s) to work:** [Custom design wordpress website](https://github.com/rscheffers82/wordpress-custom-design)
 _____________________________________________________________________
--->
-<!--
-### Day 47: February 19th, 2017 ()
 
-**Today's Progress:** 
-
-**Thoughts:** 
-
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
-_____________________________________________________________________
--->
 
 ### Day 47: February 19th, 2017 (MongoDB - model associations and middleware)
 
