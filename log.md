@@ -9,16 +9,19 @@
 **Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 49: February 21st, 2017 ()
+### Day 49: February 21st, 2017 (Mongo query modifiers)
 
-**Today's Progress:** 
+**Today's Progress:** Wrapped up my first mongodb project by adding some final code that works with query modifiers like `.sort` `.skip` `.limit` 
 
-**Thoughts:** 
+I've also downloaded a starter repo which is a small electron app for music artists. The app is functional although no data is pulled in, no schema's are set up and no filters work yet. The next challenge will be to make the app fully functional. I'll track my progress in the repo listed below.
 
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+**Thoughts:** Short but sweet coding session today. More tomorrow...
+
+**Link(s) to work:** 
+<br />[GitHub repo](https://github.com/rscheffers82/mongodb-exploration)
+<br />[MusicStar app](https://github.com/rscheffers82/MusicStarApp)
 _____________________________________________________________________
--->
+
 
 ### Day 48: February 20th, 2017 (Client WordPress site)
 
