@@ -1,14 +1,24 @@
 # 100 Days Of Code - Log
 <!--
-### Day 50: February 22nd, 2017 ()
+### Day 51: February 22nd, 2017 ()
 
 **Today's Progress:** 
 
 **Thoughts:** 
 
-**Link(s) to work:** [URL Shortener API](https://github.com/rscheffers82/API-microservices)
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp
 _____________________________________________________________________
 -->
+### Day 50: February 22nd, 2017 (Add queries to the Music Star App)
+
+**Today's Progress:** Managed to get the app working by adding logic so that a user can create, add, search or update an artist 
+
+**Thoughts:** OMG, I cannot believe I'm already at day 50! I should do a little recap and write, in a separate file, about the things I've learned, the pitfalls, and what I can improve. In just a nutshell, I do feel more familiar with the various technologies in the JavaScript ecosphere now that I've worked with Node.js and Express and Mongo. Which in turn helps to understand what the backend really is. So far, I really enjoyed the first 50 days, here's to the next 50.
+
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp
+_____________________________________________________________________
+
+
 ### Day 49: February 21st, 2017 (Mongo query modifiers)
 
 **Today's Progress:** Wrapped up my first mongodb project by adding some final code that works with query modifiers like `.sort` `.skip` `.limit` 
