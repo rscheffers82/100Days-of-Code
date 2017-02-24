@@ -1,21 +1,33 @@
 # 100 Days Of Code - Log
+
 <!--
-### Day 51: February 22nd, 2017 ()
+### Day 52: February 24th, 2017 ()
 
 **Today's Progress:** 
 
 **Thoughts:** 
 
-**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
 _____________________________________________________________________
 -->
+
+### Day 51: February 23rd, 2017 (Add queries to the Music Star App)
+
+**Today's Progress:** After a long day still managed to get in an hour of work on the Music Star App
+
+**Thoughts:** Wrote both the queries for pulling the data for the age and yearsActive range selectors in the app.
+
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+_____________________________________________________________________
+
+
 ### Day 50: February 22nd, 2017 (Add queries to the Music Star App)
 
 **Today's Progress:** Managed to get the app working by adding logic so that a user can create, add, search or update an artist 
 
 **Thoughts:** OMG, I cannot believe I'm already at day 50! I should do a little recap and write, in a separate file, about the things I've learned, the pitfalls, and what I can improve. In just a nutshell, I do feel more familiar with the various technologies in the JavaScript ecosphere now that I've worked with Node.js and Express and Mongo. Which in turn helps to understand what the backend really is. So far, I really enjoyed the first 50 days, here's to the next 50.
 
-**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
 _____________________________________________________________________
 
 
