@@ -1,15 +1,25 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 52: February 24th, 2017 ()
+### Day 53: February 25th, 2017 ()
 
-**Today's Progress:** 
+**Today's Progress:** further added queries to the 
 
 **Thoughts:** 
 
 **Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
 _____________________________________________________________________
 -->
+
+### Day 52: February 24th, 2017 (MongoDB - more advanced queries)
+
+**Today's Progress:** Added several advanced search queries to the Music Star App
+
+**Thoughts:** definitely out of the comfort zone here, and it took some time to go through [mongo's documentation](https://docs.mongodb.com/manual/reference/operator/query/) and find what I need.
+
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+_____________________________________________________________________
+
 
 ### Day 51: February 23rd, 2017 (Add queries to the Music Star App)
 
