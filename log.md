@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 53: February 25th, 2017 ()
+### Day 57: March 1st, 2017 ()
 
 **Today's Progress:** further added queries to the 
 
@@ -10,6 +10,46 @@
 **Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
 _____________________________________________________________________
 -->
+<!--
+### Day 56: February 28th, 2017 ()
+
+**Today's Progress:** further added queries to the 
+
+**Thoughts:** 
+
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+_____________________________________________________________________
+-->
+<!--
+### Day 55: February 27th, 2017 ()
+
+**Today's Progress:** further added queries to the 
+
+**Thoughts:** 
+
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+_____________________________________________________________________
+-->
+<!--
+### Day 54: February 26th, 2017 ()
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+_____________________________________________________________________
+-->
+
+### Day 53: February 25th, 2017 (MongoDB - more advanced queries)
+
+**Today's Progress:** Finished the Music Star App by updating the final search query as well as adding the retire and unretire queries.
+
+**Thoughts:** These queries can become complex but it's good to know how to break them up into smaller pieces. The working app can be found at the repo below. Again special thanks to Stephen Grider for providing the initial repo [here](https://github.com/StephenGrider/UpStarMusic.git).
+
+**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+_____________________________________________________________________
+
 
 ### Day 52: February 24th, 2017 (MongoDB - more advanced queries)
 
