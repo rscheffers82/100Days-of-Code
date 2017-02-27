@@ -30,16 +30,16 @@ _____________________________________________________________________
 **Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
 _____________________________________________________________________
 -->
-<!--
-### Day 54: February 26th, 2017 ()
 
-**Today's Progress:** 
+### Day 54: February 26th, 2017 (Exercise Tracker API)
 
-**Thoughts:** 
+**Today's Progress:** initial setup and start of the final API project from FreeCodeCamp.
 
-**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+**Thoughts:** I'm excited to start this new project. As it is the final API project of the [FreeCodeCamp](https://www.freecodecamp.com/rscheffers82) course (currently still in BETA). As I'm becoming more and more familiar with the setup and development process, I'm going to try and add an extra touch of design on top of this API and likely to the main intro page. For today, it kept simple and I've tied a few things together. The exercise route is setup in the router file and I've added some basic styles to the exercise intro page. This time I'll be using the [MaterialCSS](http://www.material-css.com) library to style it.
+
+**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
--->
+
 
 ### Day 53: February 25th, 2017 (MongoDB - more advanced queries)
 
