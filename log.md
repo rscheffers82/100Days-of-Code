@@ -3,33 +3,35 @@
 <!--
 ### Day 57: March 1st, 2017 ()
 
-**Today's Progress:** further added queries to the 
+**Today's Progress:**  
 
 **Thoughts:** 
 
-**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
 <!--
 ### Day 56: February 28th, 2017 ()
 
-**Today's Progress:** further added queries to the 
+**Today's Progress:**  
 
 **Thoughts:** 
 
-**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 55: February 27th, 2017 ()
 
-**Today's Progress:** further added queries to the 
+### Day 55: February 27th, 2017 (Front-end development)
 
-**Thoughts:** 
+**Today's Progress:** 
+* added eslint to the project and checked all code
+* Styled the exercise UI using [MaterialCSS](http://www.material-css.com)
 
-**Link(s) to work:** [MusicStar app](https://github.com/rscheffers82/MusicStarApp)
+**Thoughts:** Loved using the MaterialCSS library to style the app. For now it looks good, although, I might make some small tweaks once the app is fully functional.
+
+**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
--->
+
 
 ### Day 54: February 26th, 2017 (Exercise Tracker API)
 
