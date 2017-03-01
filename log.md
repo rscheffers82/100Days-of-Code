@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 <!--
+### Day 59: March 3rd, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+<!--
 ### Day 58: March 2nd, 2017 ()
 
 **Today's Progress:**  
@@ -14,7 +24,7 @@ _____________________________________________________________________
 
 **Today's Progress:**  Worked on the main menu and made it functional. Added the `datepicker` for when a user wants to enter a date.
 
-**Thoughts:** Managed to deploy the app to Heroku but unfortunately something is wrong and functionality is missing.
+**Thoughts:** Managed to deploy the app to Heroku but unfortunately something is wrong and functionality was missing. This turned out that the reference to jQuery should be `https://` instead of `http://`. Also added meta data for a card view on twitter and facebook. The UI is ready and next up will be writing the server side code that handles the API requests.
 
 **Link(s) to work:**
 <br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
