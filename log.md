@@ -1,4 +1,26 @@
 # 100 Days Of Code - Log
+<!--
+### Day 58: March 2nd, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+
+### Day 57: March 1st, 2017 (further style Exercise Tracker app)
+
+**Today's Progress:**  Worked on the main menu and made it functional. Added the `datepicker` for when a user wants to enter a date.
+
+**Thoughts:** Managed to deploy the app to Heroku but unfortunately something is wrong and functionality is missing.
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+<br />[Materialize CSS](http://materializecss.com)
+_____________________________________________________________________
 
 
 ### Day 56: February 28th, 2017 (re-style Exercise Tracker app)
