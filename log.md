@@ -1,25 +1,17 @@
 # 100 Days Of Code - Log
 
-<!--
-### Day 57: March 1st, 2017 ()
 
-**Today's Progress:**  
+### Day 56: February 28th, 2017 (re-style Exercise Tracker app)
 
-**Thoughts:** 
+**Today's Progress:** Update app to Materialize CSS, the name is very similar but it's a different library. More options and better support.
 
-**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
+**Thoughts:** Adding styles again to the app.
+
+**Link(s) to work:** 
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+<br />[Materialize CSS](http://materializecss.com)
 _____________________________________________________________________
--->
-<!--
-### Day 56: February 28th, 2017 ()
 
-**Today's Progress:**  
-
-**Thoughts:** 
-
-**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
-_____________________________________________________________________
--->
 
 ### Day 55: February 27th, 2017 (Front-end development)
 
