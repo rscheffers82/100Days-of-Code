@@ -9,16 +9,20 @@
 **Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 58: March 2nd, 2017 ()
+### Day 58: March 2nd, 2017 (Exercise Tracker add backend logic)
 
-**Today's Progress:**  
+**Today's Progress:**
+- Added `POST` routes to add a user and an exercise
+- Added `GET` route for requesting exercise logs
+- Wrote queries for all three except for the date range parts. Saving exercises needs some more work to properly store dates. Then requesting them will be easier. 
 
-**Thoughts:** 
+**Thoughts:** It was a nice coding session. I really noticed how prior MongoDB projects helped to write the queries and promises with relative ease.
 
-**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
--->
+
 
 ### Day 57: March 1st, 2017 (further style Exercise Tracker app)
 
