@@ -1,16 +1,7 @@
 # 100 Days Of Code - Log
+
 <!--
-### Day 61: March 5th, 2017 ()
-
-**Today's Progress:**  
-
-**Thoughts:** 
-
-**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
-_____________________________________________________________________
--->
-<!--
-### Day 60: March 4th, 2017 ()
+### Day 62: March 6th, 2017 ()
 
 **Today's Progress:**  
 
@@ -21,6 +12,31 @@ _____________________________________________________________________
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
+<!--
+### Day 61: March 5th, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+
+### Day 60: March 4th, 2017 (working with WordPress)
+
+**Today's Progress:** Worked on a personal page
+- Chose a different font for the entire page, main text as well as headers
+- Styled the blog area to look less busy
+- Styled home to look cleaner
+- Updated podcast area
+
+**Thoughts:** Mainly styled and added content to the page. It was a nice change from coding the backend API in recent project. 
+
+**Link(s) to work:** [WordPress development repo](https://github.com/rscheffers82/wordpress-custom-design)
+
+_____________________________________________________________________
+
 
 ### Day 59: March 3rd, 2017 (Exercise Tracker bugfix)
 
