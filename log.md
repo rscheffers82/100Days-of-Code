@@ -12,16 +12,18 @@
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 61: March 5th, 2017 ()
 
-**Today's Progress:**  
+### Day 61: March 5th, 2017 (Exercise Tracker - add initial exercise date filter)
 
-**Thoughts:** 
+**Today's Progress:** Gave it a first try to add the filter for exercises based on the chosen date range.
 
-**Link(s) to work:** [Exercise Tracker API](https://github.com/rscheffers82/API-microservices)
+**Thoughts:** As the exercises collection is a sub-collection of users, it took me a while to figure out how to sort through this. I managed to get it working by using `.populate()` to pull in all exercises and within it adding `match: {}` to provide the date range. It is working, although the solution needs some clean-up.
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
--->
+
 
 ### Day 60: March 4th, 2017 (working with WordPress)
 
