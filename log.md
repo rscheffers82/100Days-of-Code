@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
-
 <!--
-### Day 62: March 6th, 2017 ()
+### Day 64: March 8th, 2017 ()
 
 **Today's Progress:**  
 
@@ -12,6 +11,28 @@
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
+<!--
+### Day 63: March 7th, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+
+### Day 62: March 6th, 2017 (WordPress styling)
+
+**Today's Progress:** Made an initial start by adding mobile ready styles to the website. I added some initial styles for the overall layout of blogposts page and the individual blog pages.
+
+**Thoughts:** Mainly CSS and the use of `@media` queries. Nothing hard but it takes time to get the layout right of multiple screen sizes.
+
+**Link(s) to work:** [WordPress development repo](https://github.com/rscheffers82/wordpress-custom-design)
+_____________________________________________________________________
+
 
 ### Day 61: March 5th, 2017 (Exercise Tracker - add initial exercise date filter)
 
