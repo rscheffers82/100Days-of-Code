@@ -11,18 +11,16 @@
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 63: March 7th, 2017 ()
 
-**Today's Progress:**  
+### Day 63: March 7th, 2017 (WordPress styling)
 
-**Thoughts:** 
+**Today's Progress:** Added further styles to several pages (home, blog and podcast) in order to make them mobile ready. The main work went into redoing the podcast category page; structure and layout. On the surface nothing much changed, but underneath the hood a lot did. e.g. I created a new podcast content page to have more control over what content is display and only change things for this category of posts. This also fixed a few layout bugs.
 
-**Link(s) to work:**
-<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
-<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+**Thoughts:** It was a rewarding coding session where a combo of WordPress PHP development blended in with some CSS styling.
+
+**Link(s) to work:** [WordPress development repo](https://github.com/rscheffers82/wordpress-custom-design)
 _____________________________________________________________________
--->
+
 
 ### Day 62: March 6th, 2017 (WordPress styling)
 
