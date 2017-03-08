@@ -16,7 +16,7 @@ _____________________________________________________________________
 
 **Today's Progress:** Added further styles to several pages (home, blog and podcast) in order to make them mobile ready. The main work went into redoing the podcast category page; structure and layout. On the surface nothing much changed, but underneath the hood a lot did. e.g. I created a new podcast content page to have more control over what content is display and only change things for this category of posts. This also fixed a few layout bugs.
 
-**Thoughts:** It was a rewarding coding session where a combo of WordPress PHP development blended in with some CSS styling.
+**Thoughts:** It was a rewarding coding session wherein WordPress PHP development blended in with some CSS styling.
 
 **Link(s) to work:** [WordPress development repo](https://github.com/rscheffers82/wordpress-custom-design)
 _____________________________________________________________________
