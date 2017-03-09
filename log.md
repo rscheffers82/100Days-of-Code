@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 64: March 8th, 2017 ()
+### Day 66: March 10th, 2017 ()
 
 **Today's Progress:**  
 
@@ -11,6 +11,29 @@
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
+<!--
+### Day 65: March 9th, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+-->
+
+### Day 64: March 8th, 2017 (WordPress development & styling)
+
+**Today's Progress:** Adjusted `functions.php` to pull all blogposts when category podcast is being displayed.
+Updated the media section to be more harmonious and elegant, it was at bit messy :-)
+
+**Thoughts:** 
+
+**Link(s) to work:** [WordPress development repo](https://github.com/rscheffers82/wordpress-custom-design)
+_____________________________________________________________________
+
 
 ### Day 63: March 7th, 2017 (WordPress styling)
 
