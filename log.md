@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 66: March 10th, 2017 ()
+### Day 67: March 11th, 2017 ()
 
 **Today's Progress:**  
 
@@ -11,18 +11,25 @@
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
-<!--
-### Day 65: March 9th, 2017 ()
 
-**Today's Progress:**  
+### Day 66: March 10th, 2017 (WordPress Blackbeltproofreader.com)
+
+**Today's Progress:** My wife needed some help to make some changes to her website. Implemented several new images and updated the over style of her Rates and Guidelines page. We went with a much cleaner look which now places the attention better on those parts that matter.
 
 **Thoughts:** 
 
-**Link(s) to work:**
-<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
-<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+**Link(s) to work:** [Black Belt Proofreader](http://blackbeltproofreader.com)
 _____________________________________________________________________
--->
+
+
+### Day 65: March 9th, 2017 (WordPress final tweaks)
+
+**Today's Progress:** Mainly styling and adding small content changes to place attention on certain parts, e.g. Subscribe to a newsletter and podcast on iTues.
+
+**Thoughts:** 
+
+**Link(s) to work:** [WordPress development repo](https://github.com/rscheffers82/wordpress-custom-design)
+_____________________________________________________________________
 
 ### Day 64: March 8th, 2017 (WordPress development & styling)
 
