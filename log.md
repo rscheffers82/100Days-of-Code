@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 67: March 11th, 2017 ()
+### Day 68: March 12th, 2017 ()
 
 **Today's Progress:**  
 
@@ -11,6 +11,21 @@
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
+
+### Day 67: March 11th, 2017 (JS API & WordPress development)
+
+**Today's Progress:** 
+- Further improved my wife's WordPress site by optimizing the Home, Rates and Guidelines pages. I updated CSS styles to show the pages nicely for various screen sizes and added and styles some extra information to all pages.
+- Worked on the Exercise Tracker API project. Fixed the GET exercise route query so all exercises are shown when no dates are selected.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+<br /> [Black Belt Proofreader](http://blackbeltproofreader.com)
+_____________________________________________________________________
+
 
 ### Day 66: March 10th, 2017 (WordPress Blackbeltproofreader.com)
 
