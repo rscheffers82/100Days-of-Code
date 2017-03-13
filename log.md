@@ -12,6 +12,18 @@
 _____________________________________________________________________
 -->
 
+### Day 68: March 12th, 2017 (Exercise Tracker - display logs)
+
+**Today's Progress:** Added front-end structure and logic to display the logs. Changed the button action on the log form. Now the form is not submitted to the /log route but instead routes to a function that makes an AJAX GET call to the /log route. Currently data is being returned and errors are handled.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+
+
 ### Day 67: March 11th, 2017 (JS API & WordPress development)
 
 **Today's Progress:** 
