@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 68: March 12th, 2017 ()
+### Day 70: March 14th, 2017 ()
 
 **Today's Progress:**  
 
@@ -11,6 +11,18 @@
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
 _____________________________________________________________________
 -->
+
+### Day 69: March 13th, 2017 (Exercise Tracker - display logs)
+
+**Today's Progress:**  Continued to build on the front-end log display of the exercise app. I started to build the layout to display the data beneath the current three boxes. It will only appear once data is fetched and the logs screen is closed when the x is pressed. At that point and all data is cleared.
+
+**Thoughts:** The app is almost ready except for a few small tweaks to tidy up the app.
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+_____________________________________________________________________
+
 
 ### Day 68: March 12th, 2017 (Exercise Tracker - display logs)
 
