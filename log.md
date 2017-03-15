@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
+
 <!--
-### Day 70: March 14th, 2017 ()
+### Day 71: March 15th, 2017 ()
 
 **Today's Progress:**  
 
@@ -9,8 +10,26 @@
 **Link(s) to work:**
 <br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
 <br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
+
+### Day 70: March 14th, 2017 (API projects bundling)
+
+**Today's Progress:** 
+<br />1) Added the final layout improvements and bug fixes to Exercise Tracker and released it into the wild through social media.
+<br />2) Updated the layout of all other 4 API projects to make them look more appealing. Added a menu at the top so any user can quickly switch between the various projects.
+<br />3) Updated the main intro page of the API collection by adding a brief descriptions of each project and an intro image to the Exercise Tracker and URL Shortener. The collection is complete :)
+<br />4) Updated my personal website by adding a back-end section to my portfolio and add the API collection, Node project.
+
+**Thoughts:** A lot of things came to a close today and it's very rewarding to see the fruits of several weeks / months of work!
+
+**Link(s) to work:**
+<br />[API Collection - Five Node.js projects](https://rs82.herokuapp.com)
+<br />[Exercise Tracker API](https://rs82.herokuapp.com/exercise)
+<br />[Portfolio page - royscheffers.com](http://royscheffers.com)
+_____________________________________________________________________
+
 
 ### Day 69: March 13th, 2017 (Exercise Tracker - display logs)
 
