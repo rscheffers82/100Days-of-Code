@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
-
 <!--
-### Day 71: March 15th, 2017 ()
+### Day 72: March 16th, 2017 ()
 
 **Today's Progress:**  
 
@@ -13,6 +12,21 @@
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
+
+### Day 71: March 15th, 2017 (WordPress fixes)
+
+**Today's Progress:** Created a trello list of the items still outstanding to fix. These tasks include:
+- Add mobile styles to fix the rates page to display properly
+- Style the contact page to look more subtle
+- Update several images throughout the website, (better quality or less black)
+- Fix some animation glitches on the Guidelines page
+- Update menu navbar styles
+
+**Thoughts:** 
+
+**Link(s) to work:** [Black Belt Proofreader](http://blackbeltproofreader.com)
+_____________________________________________________________________
+
 
 ### Day 70: March 14th, 2017 (API projects bundling)
 
