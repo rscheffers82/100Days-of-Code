@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
+
 <!--
-### Day 72: March 16th, 2017 ()
+### Day 73: March 17th, 2017 ()
 
 **Today's Progress:**  
 
@@ -12,6 +13,18 @@
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
+
+### Day 72: March 16th, 2017 (Zoom image on hover)
+
+**Today's Progress:** Created a JSbin to build a zoom on hover effect.
+
+**Thoughts:** I wanted to implement this effect in prior projects but always lacked the knowledge on how to implement it. Finally, I had time to get my head around this effect and built it in a JSbin. Can't wait to add this to future projects! Things learned:
+- You can apply effect on a child element when hovering over a parent.
+- A better understanding of `transform: scale()`, `overflow: hidden`, and `transition` css properties.
+
+**Link(s) to work:** [Zoom image on hover effect](http://jsbin.com/doricib/edit?html,css,output)
+_____________________________________________________________________
+
 
 ### Day 71: March 15th, 2017 (WordPress fixes)
 
