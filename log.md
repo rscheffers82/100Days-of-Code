@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 73: March 17th, 2017 ()
+### Day 76: March 20th, 2017 ()
 
 **Today's Progress:**  
 
@@ -13,6 +13,41 @@
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
+<!--
+### Day 75: March 19th, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+https://rs82.herokuapp.com/
+_____________________________________________________________________
+-->
+
+### Day 74: March 18th, 2017 (Personal Website)
+
+**Today's Progress:**  Implemented the zoom on hover and overlay effect in my own personal portfolio, projects area.
+
+**Thoughts:**
+- This made me better understand the structure of how to use a parent and child divs and which CSS styles to use to display the image and overlay and zoom on hover. Practice and applying what I've learned two days ago paid off today! It does still need a little more work to make it better responsive on mobile devices.
+
+**Link(s) to work:** [royscheffers.com](http://royscheffers.com)
+_____________________________________________________________________
+
+
+### Day 73: March 17th, 2017 (WordPress)
+
+**Today's Progress:** Created a services page with custom styles. This page lets any business or blogger display their services in a simple and quick to understand overview of images and a few key words.
+
+**Thoughts:** I learned more about CSS and how to use background within a div element instead of using the `img` tag.
+- With the above comes responsiveness and how to implement that. In this case I used a static width and height and used media queries to make the blocks break a certain screen sizes to show either 3, 2 or 1 element(s) in a row.
+
+**Link(s) to work:** [WordPress development repo](https://github.com/rscheffers82/wordpress-custom-design)
+_____________________________________________________________________
+
 
 ### Day 72: March 16th, 2017 (Zoom image on hover)
 
