@@ -13,19 +13,26 @@
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
-<!--
-### Day 75: March 19th, 2017 ()
 
-**Today's Progress:**  
+### Day 75: March 19th, 2017 (Optimize build process)
 
-**Thoughts:** 
+**Today's Progress:** Improved my build process by adding several optimizations to gulpfile.js 
+`gulp-sourcemaps`
+`gulp-autoprefixer`
+`gulp-uglify`
+`gulp-cssnano`
+`gulp-imagemin`
+`run-sequence`
+
+**Thoughts:** Resources for my portfolio project files are now optimized, due to
+- `autoprefixer` adds CSS prefixes are automatically added which removes the risk of manual errors.
+- JS, CSS and Images are now minified and optimized with the use of `gulp-uglify` `gulp-cssnano` `gulp-imagemin`.
+- No more struggle to find certain CSS rules in SASS because `sourcemaps` now adds references to the SCSS file in my browser developer tools.
 
 **Link(s) to work:**
-<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
-<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
-https://rs82.herokuapp.com/
+[Gulp build process](https://github.com/rscheffers82/personal-site/blob/master/gulpfile.js)
 _____________________________________________________________________
--->
+
 
 ### Day 74: March 18th, 2017 (Personal Website)
 
