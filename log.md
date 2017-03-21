@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
-
 <!--
-### Day 76: March 20th, 2017 ()
+### Day 80: March 24th, 2017 ()
 
 **Today's Progress:**  
 
@@ -13,6 +12,57 @@
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
+<!--
+### Day 79: March 23rd, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+https://rs82.herokuapp.com/
+_____________________________________________________________________
+-->
+<!--
+### Day 78: March 22nd, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+https://rs82.herokuapp.com/
+_____________________________________________________________________
+-->
+<!--
+### Day 77: March 21st, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+https://rs82.herokuapp.com/
+_____________________________________________________________________
+-->
+
+### Day 76: March 20th, 2017 (Learn more about eslint)
+
+**Today's Progress:**  Read up on `eslint` and how to use it for future projects.
+
+**Thoughts:** Added eslint to my own personal portfolio website and the Simon Game. Picked up several code mistakes and cleaned them up, more projects will follow.
+
+**Link(s) to work:**
+<br />[Portfolio website](https://github.com/rscheffers82/personal-site)
+<br />[Simon Game](https://github.com/rscheffers82/Simon-game)
+_____________________________________________________________________
+
 
 ### Day 75: March 19th, 2017 (Optimize build process)
 
