@@ -60,7 +60,8 @@ _____________________________________________________________________
 
 **Link(s) to work:**
 <br />[Portfolio website](https://github.com/rscheffers82/personal-site)
-<br />[Simon Game](https://github.com/rscheffers82/Simon-game)
+<br />[Simon game](https://github.com/rscheffers82/Simon-game)
+<br />[Tic Tac Toe game](https://github.com/rscheffers82/Tic-Tac-Toe-JS-game)
 _____________________________________________________________________
 
 
