@@ -56,7 +56,7 @@ _____________________________________________________________________
 
 **Today's Progress:**  Read up on `eslint` and how to use it for future projects.
 
-**Thoughts:** Added eslint to my own personal portfolio website and the Simon Game. Picked up several code mistakes and cleaned them up, more projects will follow.
+**Thoughts:** Added eslint to my own personal portfolio website and the Simon and Tic Tac toe games. The lint picked up several code mistakes and I cleaned them up, more projects will follow.
 
 **Link(s) to work:**
 <br />[Portfolio website](https://github.com/rscheffers82/personal-site)
