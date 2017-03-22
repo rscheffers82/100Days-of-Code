@@ -38,19 +38,17 @@ _____________________________________________________________________
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
-<!--
-### Day 77: March 21st, 2017 ()
 
-**Today's Progress:**  
+### Day 77: March 21st, 2017 (Side project Cruise Countdown)
 
-**Thoughts:** 
+**Today's Progress:** Used `create-react-app` boilerplate to start a short project for two of my friends who will be going on a cruise this summer. I'm going to make a countdown page and will probably create a react countdown component that others can use in their projects if they wanted to. Today I managed to have the boilerplate working and show a static countdown timer.
+
+**Thoughts:** I enjoyed working with the `create-react-app` boilerplate as it is fairly straight forward out of the box and their documentation is solid. 
 
 **Link(s) to work:**
-<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
-<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
-https://rs82.herokuapp.com/
+[Cruise Countdown Page](https://github.com/rscheffers82/cruise-countdown-page)
 _____________________________________________________________________
--->
+
 
 ### Day 76: March 20th, 2017 (Learn more about eslint)
 
