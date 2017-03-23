@@ -25,19 +25,16 @@ _____________________________________________________________________
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
-<!--
-### Day 78: March 22nd, 2017 ()
 
-**Today's Progress:**  
+### Day 78: March 22nd, 2017 (Side project Cruise Countdown)
 
-**Thoughts:** 
+**Today's Progress:** Added some minor style updates but the majority of the time I tried to figure out how to use `moment.js` and the `moment-precise-range` plugin to provide the difference between the current date/time and when the cruise leaves.
 
-**Link(s) to work:**
-<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
-<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
-https://rs82.herokuapp.com/
+**Thoughts:** I managed to get the difference between the times, but the app breaks as soon as I implement a `setInterval` for countdown, unsure why that's the case.
+
+**Link(s) to work:** [Cruise Countdown Page](https://github.com/rscheffers82/cruise-countdown-page)
 _____________________________________________________________________
--->
+
 
 ### Day 77: March 21st, 2017 (Side project Cruise Countdown)
 
