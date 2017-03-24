@@ -12,19 +12,21 @@
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
-<!--
-### Day 79: March 23rd, 2017 ()
 
-**Today's Progress:**  
+### Day 79: March 23rd, 2017 (Cruise Countdown page is up)
 
-**Thoughts:** 
+**Today's Progress:** Mainly worked on the functional and visual parts of displaying the time component. I figured out that I cannot access `DOM` elements in the ComponentWillMount function. :) Stating the obvious here, but at the time it was too late to see the simple mistake. Lesson learned:
+- More clarity gained regarding react's lifecycle components
+- How to deploy the react-create-app boilerplate to GitHub Pages and my own FTP server.
+
+**Thoughts:** A few smaller tweaks are needed to make sure the page displays nicely on mobile too. Probably something for tomorrow.
 
 **Link(s) to work:**
-<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
-<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
-https://rs82.herokuapp.com/
+<br />[Cruise Countdown Page](http://cruise.royscheffers.com/)
+<br />[Cruise Countdown Code](https://github.com/rscheffers82/cruise-countdown-page)
+
 _____________________________________________________________________
--->
+
 
 ### Day 78: March 22nd, 2017 (Side project Cruise Countdown)
 
