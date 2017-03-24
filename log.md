@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 80: March 24th, 2017 ()
+### Day 81: March 25th, 2017 ()
 
 **Today's Progress:**  
 
@@ -12,6 +12,19 @@
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
+
+### Day 80: March 24th, 2017 (Cruise Countdown - add mobile styles)
+
+**Today's Progress:**  Added several media queries to make sure the app looks good on mobile devices too.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
+<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
+https://rs82.herokuapp.com/
+_____________________________________________________________________
+
 
 ### Day 79: March 23rd, 2017 (Cruise Countdown page is up)
 
