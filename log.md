@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 81: March 25th, 2017 ()
+### Day 82: March 26th, 2017 ()
 
 **Today's Progress:**  
 
@@ -12,6 +12,17 @@
 https://rs82.herokuapp.com/
 _____________________________________________________________________
 -->
+
+### Day 81: March 25th, 2017 (Meteor exploration)
+
+**Today's Progress:** Tried out the meteor framework by installing it and building a small hello world app.
+
+**Thoughts:** I'm looking forward to start working more with Meteor and build a bigger app. The framework seems to be a great package to build full stack apps.
+
+**Link(s) to work:**
+No link as this was a simple and local hello world app
+_____________________________________________________________________
+
 
 ### Day 80: March 24th, 2017 (Cruise Countdown - add mobile styles)
 
