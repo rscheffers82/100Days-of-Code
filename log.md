@@ -1,17 +1,30 @@
 # 100 Days Of Code - Log
 <!--
-### Day 82: March 26th, 2017 ()
+### Day 83: March 26th, 2017 ()
 
 **Today's Progress:**  
 
 **Thoughts:** 
 
 **Link(s) to work:**
-<br />[Exercise Tracker API - on Heroku](https://rs82.herokuapp.com/exercise/)
-<br />[Exercise Tracker API - on GitHub](https://github.com/rscheffers82/API-microservices)
-https://rs82.herokuapp.com/
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
 _____________________________________________________________________
 -->
+
+### Day 82: March 26th, 2017 (Meteor Score Keeper App)
+
+**Today's Progress:** Explored Meteor by starting to build a Score Keeper app. Initially setup the project and pushed it to GitHub. Also managed to render some data to the screen and add dummy data to Mongo.
+
+**Thoughts:** Lovin' the Meteor framework so far and the ease to create apps. Things learned:
+- Folder Structure in Meteor and lazy and eager loading.
+- Creating a collection `new Mongo.Collection('players')` Insert data into MongoDB
+- Sync data between the server DB and MiniMongo using `Tracker.autorun`
+- Import React
+
+**Link(s) to work:**
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+_____________________________________________________________________
+
 
 ### Day 81: March 25th, 2017 (Meteor exploration)
 
