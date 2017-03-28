@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 83: March 26th, 2017 ()
+### Day 86: March 29th, 2017 ()
 
 **Today's Progress:**  
 
@@ -10,6 +10,41 @@
 [Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
 _____________________________________________________________________
 -->
+<!--
+### Day 85: March 28th, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+_____________________________________________________________________
+-->
+<!--
+### Day 84: March 27th, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+_____________________________________________________________________
+-->
+### Day 83: March 26th, 2017 (Meteor Score Keeper App)
+
+**Today's Progress:**  Continued building the scorekeep app.
+- Added add & remove points functionality
+- Added add & remove user options
+- Started to move parts of the app into their own react component
+
+**Thoughts:** Nothing major new, and more building and repeating things I've used in the past.
+
+**Link(s) to work:**
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+_____________________________________________________________________
+
 
 ### Day 82: March 26th, 2017 (Meteor Score Keeper App)
 
