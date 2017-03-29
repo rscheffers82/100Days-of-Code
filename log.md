@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 <!--
-### Day 86: March 29th, 2017 ()
+### Day 86: March 30th, 2017 ()
 
 **Today's Progress:**  
 
@@ -11,7 +11,7 @@
 _____________________________________________________________________
 -->
 <!--
-### Day 85: March 28th, 2017 ()
+### Day 85: March 29th, 2017 ()
 
 **Today's Progress:**  
 
@@ -21,18 +21,19 @@ _____________________________________________________________________
 [Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
 _____________________________________________________________________
 -->
-<!--
-### Day 84: March 27th, 2017 ()
 
-**Today's Progress:**  
+### Day 84: March 28th, 2017 (WordPress custom design)
+
+**Today's Progress:** Worked on a WordPress site and re-designed home. Initially drawn the new design in photoshop to make sure the design works. Added elements to the page and added CSS classes to further styling.
 
 **Thoughts:** 
 
 **Link(s) to work:**
-[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+[WordPress redesign Home](https://github.com/rscheffers82/wordpress-custom-design)
 _____________________________________________________________________
--->
-### Day 83: March 26th, 2017 (Meteor Score Keeper App)
+
+
+### Day 83: March 27th, 2017 (Meteor Score Keeper App)
 
 **Today's Progress:**  Continued building the scorekeep app.
 - Added add & remove points functionality
