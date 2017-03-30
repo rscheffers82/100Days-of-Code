@@ -10,17 +10,20 @@
 [Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
 _____________________________________________________________________
 -->
-<!--
-### Day 85: March 29th, 2017 ()
+### Day 85: March 29th, 2017 (Meteor Score Keeper App)
 
-**Today's Progress:**  
+**Today's Progress:** Made quite a bit of progress by building all the functionality into the Score Keeper app. Once it worked, I refactored the code so that each part (e.g. Add Player, Display Player, ListPlayers) lives in a react component and in its own file. 
 
-**Thoughts:** 
+Additionally I read up on how to deploy apps to Heroku using [Meteor Buildpack Horse](https://github.com/AdmitHub/meteor-buildpack-horse.git) a live version of the app lives [here](https://score-keep11.herokuapp.com).
+
+**Thoughts:** Although it's a simple app, I loved building it and with some styling it will look neat.
 
 **Link(s) to work:**
-[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+[Score Keeper Meteor App - Heroku](https://score-keep11.herokuapp.com)
+[Score Keeper Meteor App - GitHub](https://github.com/rscheffers82/score-keeper)
+[Meteor Buildpack Horse](https://github.com/AdmitHub/meteor-buildpack-horse.git)
 _____________________________________________________________________
--->
+
 
 ### Day 84: March 28th, 2017 (WordPress custom design)
 
