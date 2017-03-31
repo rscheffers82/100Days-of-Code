@@ -44,17 +44,20 @@ _____________________________________________________________________
 [Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
 _____________________________________________________________________
 -->
-<!--
-### Day 87: March 31st, 2017 ()
+### Day 87: March 31st, 2017 (Finish styling of the Score Keeper App)
 
-**Today's Progress:**  
+**Today's Progress:** Updated the styles of the player component to make it look more appealing. Also additional styles were added depending on the rank of the player. For those on rank 1, 2 and 3 specific colors highlight them in the list. In order to make this work I had to make small tweaks to the player API to include the rank of a player.
+
+Secondly I've updated my own portfolio website by adding the score keep app to it. Changes were pushes up to the live site.
 
 **Thoughts:** 
 
 **Link(s) to work:**
-[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+<br />[Score Keeper Meteor App - Heroku](https://score-keep11.herokuapp.com)
+<br />[Score Keeper Meteor App - GitHub](https://github.com/rscheffers82/score-keeper)
+<br />[Personal Portfolio](http://royscheffers.com)
 _____________________________________________________________________
--->
+
 
 ### Day 86: March 30th, 2017 (style and animate Score Keeper App)
 
