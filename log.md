@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
+
 <!--
-### Day 86: March 30th, 2017 ()
+### Day 91: March 4th, 2017 ()
 
 **Today's Progress:**  
 
@@ -10,6 +11,65 @@
 [Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
 _____________________________________________________________________
 -->
+<!--
+### Day 90: March 3rd, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+_____________________________________________________________________
+-->
+<!--
+### Day 89: March 2nd, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+_____________________________________________________________________
+-->
+<!--
+### Day 88: March 1st, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+_____________________________________________________________________
+-->
+<!--
+### Day 87: March 31st, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+_____________________________________________________________________
+-->
+
+### Day 86: March 30th, 2017 (style and animate Score Keeper App)
+
+**Today's Progress:** added SCSS support to the project and styled the various components.
+Additionally I've used `react-flip-move` to add some nice transition when players increase in rank, are added, or removed.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Score Keeper Meteor App - Heroku](https://score-keep11.herokuapp.com)
+<br />[Score Keeper Meteor App - GitHub](https://github.com/rscheffers82/score-keeper)
+<br />[React Flip Move library](https://github.com/joshwcomeau/react-flip-move)
+_____________________________________________________________________
+
+
 ### Day 85: March 29th, 2017 (Meteor Score Keeper App)
 
 **Today's Progress:** Made quite a bit of progress by building all the functionality into the Score Keeper app. Once it worked, I refactored the code so that each part (e.g. Add Player, Display Player, ListPlayers) lives in a react component and in its own file. 
