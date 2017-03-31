@@ -50,12 +50,16 @@ _____________________________________________________________________
 
 Secondly I've updated my own portfolio website by adding the score keep app to it. Changes were pushes up to the live site.
 
+UPDATE:
+To get more familiar with Meteor and react I decided to build a link shortener app and created an initial repo [here](https://github.com/rscheffers82/short-lnk-meteor). Currently the repo only holds some initial code and the various paths the app will use. I'll be building out the app over the next two weeks.
+
 **Thoughts:** 
 
 **Link(s) to work:**
 <br />[Score Keeper Meteor App - Heroku](https://score-keep11.herokuapp.com)
 <br />[Score Keeper Meteor App - GitHub](https://github.com/rscheffers82/score-keeper)
 <br />[Personal Portfolio](http://royscheffers.com)
+<br />[Short Lnk Metoer App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 
 
