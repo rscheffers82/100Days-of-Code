@@ -33,17 +33,18 @@ _____________________________________________________________________
 [Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
 _____________________________________________________________________
 -->
-<!--
-### Day 88: March 1st, 2017 ()
 
-**Today's Progress:**  
+### Day 88: March 1st, 2017 (Meteor project Short lnk)
 
-**Thoughts:** 
+**Today's Progress:** Continued building out the link shortener app by adding better route protection to the app and redirection when a user logs in and logs out.
+
+**Thoughts:** The meteor framework is such a complete package. It makes making apps very easy. Much of the login logic, authentication and tokenization is done for you using meteor's `Accounts` method on `accounts-base` and `loginWithPassword` on the `meteor`. 
 
 **Link(s) to work:**
-[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+[Short Lnk Metoer App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
--->
+
+
 ### Day 87: March 31st, 2017 (Finish styling of the Score Keeper App)
 
 **Today's Progress:** Updated the styles of the player component to make it look more appealing. Also additional styles were added depending on the rank of the player. For those on rank 1, 2 and 3 specific colors highlight them in the list. In order to make this work I had to make small tweaks to the player API to include the rank of a player.
@@ -51,7 +52,7 @@ _____________________________________________________________________
 Secondly I've updated my own portfolio website by adding the score keep app to it. Changes were pushes up to the live site.
 
 UPDATE:
-To get more familiar with Meteor and react I decided to build a link shortener app and created an initial repo [here](https://github.com/rscheffers82/short-lnk-meteor). Currently the repo only holds some initial code and the various paths the app will use. I'll be building out the app over the next two weeks.
+To get more familiar with Meteor and react I decided to build a link shortener app and created an initial repo [here](https://github.com/rscheffers82/short-lnk-meteor). Currently the repo only holds some initial code and the various paths the app will use. I'll be building out the app over the next week or two.
 
 **Thoughts:** 
 
