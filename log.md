@@ -8,7 +8,7 @@
 **Thoughts:** 
 
 **Link(s) to work:**
-[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
 <!--
@@ -19,20 +19,22 @@ _____________________________________________________________________
 **Thoughts:** 
 
 **Link(s) to work:**
-[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
-<!--
-### Day 89: March 2nd, 2017 ()
 
-**Today's Progress:**  
+### Day 89: March 2nd, 2017 (Meteor project Short lnk)
+
+**Today's Progress:** Added validation for email address and minimum password length when users sign up. I've made use of the `simpl-schema` library, created a schema and use the method `validate()` on it to validate email input when a new user is created. As passwords are hashed, I added validation for this to the client side by setting a minimum length to 9 chars.
+
+As routes were taking up some space in main.js on the client, I refactored the code by moving that part into its own file.  
 
 **Thoughts:** 
 
 **Link(s) to work:**
-[Score Keeper Meteor App](https://github.com/rscheffers82/score-keeper)
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
--->
+
 
 ### Day 88: March 1st, 2017 (Meteor project Short lnk)
 
@@ -41,7 +43,7 @@ _____________________________________________________________________
 **Thoughts:** The meteor framework is such a complete package. It makes making apps very easy. Much of the login logic, authentication and tokenization is done for you using meteor's `Accounts` method on `accounts-base` and `loginWithPassword` on the `meteor`. 
 
 **Link(s) to work:**
-[Short Lnk Metoer App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 
 
@@ -60,7 +62,7 @@ To get more familiar with Meteor and react I decided to build a link shortener a
 <br />[Score Keeper Meteor App - Heroku](https://score-keep11.herokuapp.com)
 <br />[Score Keeper Meteor App - GitHub](https://github.com/rscheffers82/score-keeper)
 <br />[Personal Portfolio](http://royscheffers.com)
-<br />[Short Lnk Metoer App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+<br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 
 
