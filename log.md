@@ -11,17 +11,17 @@
 [Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
-<!--
-### Day 90: March 3rd, 2017 ()
 
-**Today's Progress:**  
+### Day 90: March 3rd, 2017 (WordPress custom design)
 
-**Thoughts:** 
+**Today's Progress:** Today, I worked a bit on a custom WordPress theme by updating the styles on home.
+
+**Thoughts:** Nothing to complicated, but it's always nice to keep my CSS skills fresh. You'll find the repo for the project below.
 
 **Link(s) to work:**
-[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+[WordPress custom theme styles and templates](https://github.com/rscheffers82/wordpress-custom-design)
 _____________________________________________________________________
--->
+
 
 ### Day 89: March 2nd, 2017 (Meteor project Short lnk)
 
