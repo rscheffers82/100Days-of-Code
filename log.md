@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 91: March 4th, 2017 ()
+### Day 93: March 6th, 2017 ()
 
 **Today's Progress:**  
 
@@ -11,6 +11,28 @@
 [Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
+<!--
+### Day 92: March 5th, 2017 (WordPress custom design)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[WordPress custom theme styles and templates](https://github.com/rscheffers82/wordpress-custom-design)
+_____________________________________________________________________
+-->
+
+### Day 91: March 4th, 2017 (WordPress custom design)
+
+**Today's Progress:**  Made most of the updated styles from yesterday responsive and tweaked some parts of the page to be better spaces.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[WordPress custom theme styles and templates](https://github.com/rscheffers82/wordpress-custom-design)
+_____________________________________________________________________
+
 
 ### Day 90: March 3rd, 2017 (WordPress custom design)
 
