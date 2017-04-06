@@ -11,17 +11,23 @@
 [Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
-<!--
-### Day 92: March 5th, 2017 (WordPress custom design)
 
-**Today's Progress:** 
+### Day 92: March 5th, 2017 (WordPress customize category page)
 
-**Thoughts:** 
+**Today's Progress:** Customized the podcast pages so it includes dynamic content above the podcast posts list.
+
+**Thoughts:** In the podcast category template page, I added the below code before the loop. Post 4049 is a page that can be used to add text above the category list, and it's content body will appear above the podcast list itself.
+
+```
+$post = get_post(4049);
+$content = apply_filters('the_content', $post->post_content);
+echo $content;
+```
 
 **Link(s) to work:**
 [WordPress custom theme styles and templates](https://github.com/rscheffers82/wordpress-custom-design)
 _____________________________________________________________________
--->
+
 
 ### Day 91: March 4th, 2017 (WordPress custom design)
 
