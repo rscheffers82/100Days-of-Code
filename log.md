@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 93: March 6th, 2017 ()
+### Day 95: March 8th, 2017 ()
 
 **Today's Progress:**  
 
@@ -11,6 +11,29 @@
 [Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
+<!--
+### Day 94: March 7th, 2017 ()
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+_____________________________________________________________________
+-->
+
+### Day 93: March 6th, 2017 (CSS Grid)
+
+**Today's Progress:** Did some practices on CSS Grid Garden to get familiar with CSS Grid layout.
+
+**Thoughts:** Learned more about:
+`grid-template-columns`, `grid-template-rows`, `grid-column`, `grid-row`, `grid-area`.
+
+**Link(s) to work:**
+[Grid Garden](http://cssgridgarden.com/)
+_____________________________________________________________________
+
 
 ### Day 92: March 5th, 2017 (WordPress customize category page)
 
