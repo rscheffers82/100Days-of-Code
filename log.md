@@ -11,17 +11,17 @@
 [Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
-<!--
-### Day 94: March 7th, 2017 ()
 
-**Today's Progress:**  
+### Day 94: March 7th, 2017 (Meteor project Short lnk)
 
-**Thoughts:** 
+**Today's Progress:** Create initial `ListLinks` component that will list all shortened links. Used Tracker.Autorun() to keep track of any changes which is called in the componentDidMount and stopped in componentWillUnmount lifecycle methods so that resources are freed up.
+
+**Thoughts:** Glad to be working in JS again :)
 
 **Link(s) to work:**
 [Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
--->
+
 
 ### Day 93: March 6th, 2017 (CSS Grid)
 
