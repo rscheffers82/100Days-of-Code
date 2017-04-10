@@ -33,18 +33,20 @@ _____________________________________________________________________
 [Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
-<!--
+
 ### Day 97: March 10th, 2017 (Meteor project Short lnk)
 
-**Today's Progress:**  
+**Today's Progress:** Added redirection to the app using `WebApp` middleware from the Meteor library. On the server side, I grab the last part of the request url, update the header statuscode to 302, for redirection set the header location to the url in the MongoDB, and call res.end() to end the server. All works OK.
 
-**Thoughts:** 
+As the links don't have a short URL, I've installed the npm package shortId to shorten the standard _id object. Also, to make the app more flexible I moved functionality in the links component into their own files, e.g. by creating the PrivateHeader and AddLink components.
+
+**Thoughts:** As the application is currently working, although still in its bare state, I deployed it to [Heroku](https://rs-lnk.herokuapp.com) to make sure it runs in the cloud too.
 
 **Link(s) to work:**
-<br />[Short Lnk Meteor App - Heroku](https://github.com/rscheffers82/short-lnk-meteor)
+<br />[Short Lnk Meteor App - Heroku](https://rs-lnk.herokuapp.com)
 <br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
--->
+
 
 ### Day 96: March 9th, 2017 (Meteor project Short lnk)
 
