@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 <!--
-### Day 95: March 8th, 2017 ()
+### Day 100: March 13th, 2017 (Meteor project Short lnk)
 
 **Today's Progress:**  
 
@@ -11,6 +11,62 @@
 [Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
+<!--
+### Day 99: March 12th, 2017 (Meteor project Short lnk)
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+_____________________________________________________________________
+-->
+<!--
+### Day 98: March 11th, 2017 (Meteor project Short lnk)
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+_____________________________________________________________________
+-->
+<!--
+### Day 97: March 10th, 2017 (Meteor project Short lnk)
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link(s) to work:**
+<br />[Short Lnk Meteor App - Heroku](https://github.com/rscheffers82/short-lnk-meteor)
+<br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+_____________________________________________________________________
+-->
+
+### Day 96: March 9th, 2017 (Meteor project Short lnk)
+
+**Today's Progress:** Built the `create.link` method that validates the username first and uses SimpleSchema to validate the url. Next I setup a SimpleSchema config file which transforms a JS error to a Meteor.Error which removes the need to wrap SimpleSchema in a try-catch block.
+
+**Thoughts:** It's getting clearer how to securely enter data to the DB from the client, via the server size of the app.
+
+**Link(s) to work:**
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+_____________________________________________________________________
+
+
+### Day 95: March 8th, 2017 (Meteor project Short lnk)
+
+**Today's Progress:** Explored meteor.methods() by creating two example methods.
+
+**Thoughts:** 
+
+**Link(s) to work:**
+[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+_____________________________________________________________________
+
 
 ### Day 94: March 7th, 2017 (Meteor project Short lnk)
 
