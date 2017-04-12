@@ -17,9 +17,11 @@ _____________________________________________________________________
 
 **Today's Progress:** 
 
-- Make `AddLink` a controlled component
-- make `LinkListFilter` a controlled component first using react, and afterwards an improved version using meteor's `tracker.autorun` and `session`
-- Add analytics for visited links and format time neatly with moment.js
+- Make `AddLink` a controlled component.
+- make `LinkListFilter` a controlled component first using react, and afterwards an improved version using meteor's `tracker.autorun` and `session`.
+- Add analytics for visited links and format time neatly with moment.js.
+- Update UI by replacing input form by 'react-modal' for adding new links.
+- Add error handling by using `react-modal`.
 
 **Thoughts:** 
 
