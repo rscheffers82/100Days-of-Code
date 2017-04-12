@@ -12,10 +12,14 @@
 <br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
-<!--
+
 ### Day 99: March 12th, 2017 (Meteor project Short lnk)
 
-**Today's Progress:**  
+**Today's Progress:** 
+
+- Make `AddLink` a controlled component
+- make `LinkListFilter` a controlled component first using react, and afterwards an improved version using meteor's `tracker.autorun` and `session`
+- Add analytics for visited links and format time neatly with moment.js
 
 **Thoughts:** 
 
@@ -23,7 +27,7 @@ _____________________________________________________________________
 <br />[Short Lnk Meteor App - Heroku](https://rs-lnk.herokuapp.com)
 <br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
--->
+
 
 ### Day 98: March 11th, 2017 (Meteor project Short lnk)
 
