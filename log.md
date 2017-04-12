@@ -8,7 +8,8 @@
 **Thoughts:** 
 
 **Link(s) to work:**
-[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+<br />[Short Lnk Meteor App - Heroku](https://rs-lnk.herokuapp.com)
+<br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
 <!--
@@ -19,20 +20,28 @@ _____________________________________________________________________
 **Thoughts:** 
 
 **Link(s) to work:**
-[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+<br />[Short Lnk Meteor App - Heroku](https://rs-lnk.herokuapp.com)
+<br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
 -->
-<!--
+
 ### Day 98: March 11th, 2017 (Meteor project Short lnk)
 
-**Today's Progress:**  
+**Today's Progress:** Managed to put a fair amount of time down and work on the Short Lnk app. Here's a breakdown of the things done:
+- Create `LinkListItem` component that will display all the link information.
+- Add UI elements to show a URL is copied to the clipboard.
+- Add clipboard library to the project for copying text to the clipboard
+- Add toggle for showing links or hidden link.
+- Add meteor session to the app to provide support for tracking hide/unhide changes.
+- Convert `Link`, `PrivateHeader`, `NotFound` components to stateless functional components for better performance.
 
 **Thoughts:** 
 
 **Link(s) to work:**
-[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
+<br />[Short Lnk Meteor App - Heroku](https://rs-lnk.herokuapp.com)
+<br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
--->
+
 
 ### Day 97: March 10th, 2017 (Meteor project Short lnk)
 
