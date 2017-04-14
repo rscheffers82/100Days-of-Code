@@ -1,17 +1,18 @@
 # 100 Days Of Code - Log
 
-<!--
-### Day 100: March 13th, 2017 (Meteor project Short lnk)
+### Day 100: March 13th, 2017 (Meteor project Short Lnk)
 
-**Today's Progress:**  
+**Today's Progress:** Finished the Short Lnk app by adding styles. The completed version is up [here](https://rs-lnk.herokuapp.com).
 
-**Thoughts:** 
+**Thoughts:** It's nice to see the app come alive with come color and spacing. 
+
+On the 100 days of code, what an awesome journey it was! The next few days I'll be reflecting a bit on what went well and what didn't, what I've learned and which things need more repetition. All in all, very happy with the result.
 
 **Link(s) to work:**
 <br />[Short Lnk Meteor App - Heroku](https://rs-lnk.herokuapp.com)
 <br />[Short Lnk Meteor App - GitHub](https://github.com/rscheffers82/short-lnk-meteor)
 _____________________________________________________________________
--->
+
 
 ### Day 99: March 12th, 2017 (Meteor project Short lnk)
 
